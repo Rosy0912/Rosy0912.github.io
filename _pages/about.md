@@ -18,8 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I graduated in 2024 with a Bachelor’s degree in Artificial Intelligence from Chien-Shiung Wu College, Southeast University (SEU, 985 & 211). Afterwards, I was admitted without examination to the Master’s program at Beijing Electronic Science and Technology Institute (BESTI), initially leaning toward a civil service career after early research setbacks. 
-However, I was fortunate to be advised by [Dr. Xiaojun Jia](http://jiaxiaojunqaq.github.io/), a postdoctoral researcher at Nanyang Technological University, and to collaborate with [Weixin Wang](https://weixinwilliamwang.github.io/weixinwang.github.io/), [Haoxuan Ma](https://hunter-wrynn.github.io/), and many other friends. These experiences reignited my passion for academia and inspired me to pursue a Ph.D.
+I graduated in 2024 with a Bachelor’s degree in Artificial Intelligence from Chien-Shiung Wu College, Southeast University (SEU, 985 & 211). Afterwards, I was admitted without examination to the Master’s program at Beijing Electronic Science and Technology Institute (BESTI), initially leaning toward a civil service career after early research setbacks. However, I was fortunate to be advised by [Dr. Xiaojun Jia](http://jiaxiaojunqaq.github.io/), a postdoctoral researcher at Nanyang Technological University, and to collaborate with [Weixin Wang](https://weixinwilliamwang.github.io/weixinwang.github.io/), [Haoxuan Ma](https://hunter-wrynn.github.io/), and many other friends. These experiences reignited my passion for academia and inspired me to pursue a Ph.D.
 
 
 # 📝 Selected Papers 
@@ -32,7 +31,8 @@ However, I was fortunate to be advised by [Dr. Xiaojun Jia](http://jiaxiaojunqaq
 **Ruoxi Cheng**, Haoxuan Ma, Weixin Wang, Zhiqiang Wang, Xiaoshuang Jia, Simeng Qin, Xiaochun Cao, Yang Liu, Xiaojun Jia
 
 [Paper](https://arxiv.org/pdf/2503.18991) · [Code](https://github.com/Rosy0912/DR-IRL)  <strong><span class='show_paper_citations' data='SCHOLAR_ID_4'></span></strong>
-- Under review at NeurIPS 2025; review scores: 4-4-4-2.
+
+Under review at NeurIPS 2025; review scores: 4-4-4-2.
 </div>
 </div>
 
@@ -47,7 +47,8 @@ However, I was fortunate to be advised by [Dr. Xiaojun Jia](http://jiaxiaojunqaq
 **Ruoxi Cheng**, Yizhong Ding, Shuirong Cao, Ranjie Duan, Xiaoshuang Jia, Shaowei Yuan, Zhiqiang Wang, Xiaojun Jia
 
 [Paper](https://arxiv.org/pdf/2412.05892) · [Code](https://github.com/Rosy0912/PBI-Attack)  <strong><span class='show_paper_citations' data='SCHOLAR_ID_2'></span></strong>
-- Under review at EMNLP 2025; review scores: oa 3.67, meta 3.5.
+
+Under review at EMNLP 2025; review scores: oa 3.67, meta 3.5.
 </div>
 </div>
 
@@ -61,7 +62,8 @@ However, I was fortunate to be advised by [Dr. Xiaojun Jia](http://jiaxiaojunqaq
 **Ruoxi Cheng**, Yizhong Ding, Shuirong Cao, Shitong Shao, Zhiqiang Wang
 
 [Paper](https://dl.acm.org/doi/pdf/10.1145/3731715.3733349) · [Code](https://github.com/Rosy0912/USMID)  <strong><span class='show_paper_citations' data='SCHOLAR_ID_3'></span></strong>
-- The 15th ACM International Conference on Multimedia Retrieval (ICMR 2025)
+
+The 15th ACM International Conference on Multimedia Retrieval (ICMR 2025)
 
 </div>
 </div>
@@ -76,7 +78,9 @@ However, I was fortunate to be advised by [Dr. Xiaojun Jia](http://jiaxiaojunqaq
 **Ruoxi Cheng**, Haoxuan Ma, Shuirong Cao, Jiaqi Li, Aihua Pei, Zhiqiang Wang, Pengliang Ji, Haoyu Wang, Jiaqi Huo
 
 [Paper](https://openreview.net/pdf?id=aqLPNGxgTS)  ·  [Code](https://github.com/Rosy0912/age_bias_data_processing) <strong><span class='show_paper_citations' data='SCHOLAR_ID_1'></span></strong>
-- Pluralistic Alignment Workshop at NeurIPS 2024
+
+Pluralistic Alignment Workshop at NeurIPS 2024
+
 </div>
 </div>
 
