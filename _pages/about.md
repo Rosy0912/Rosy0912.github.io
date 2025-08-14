@@ -31,7 +31,7 @@ I completed my undergraduate studies at Chien-Shiung Wu College, Southeast Unive
 **Ruoxi Cheng**, Haoxuan Ma, Shuirong Cao, Jiaqi Li, Aihua Pei, Zhiqiang Wang, Pengliang Ji, Haoyu Wang, Jiaqi Huo
 
 [Code](https://github.com/Rosy0912/age_bias_data_processing) · [PDF](https://openreview.net/pdf?id=aqLPNGxgTS) · <strong><span class='show_paper_citations' data='SCHOLAR_ID_1'></span></strong>
-- We propose a multi-role debate framework to mitigate bias in LLMs through pluralistic alignment.
+- We propose Reinforcement Learning from Multi-role Debates as Feedback (RLDF), a novel approach for bias mitigation replacing human feedback in traditional RLHF. We utilize LLMs in multi-role debates to create a dataset that includes both high-bias and low-bias instances for training the reward model in reinforcement learning.
 </div>
 </div>
 
@@ -44,7 +44,8 @@ I completed my undergraduate studies at Chien-Shiung Wu College, Southeast Unive
 **Ruoxi Cheng**, Yizhong Ding, Shuirong Cao, Shitong Shao, Zhiqiang Wang
 
 [Code](https://github.com/Rosy0912/USMID) · [PDF](https://dl.acm.org/doi/pdf/10.1145/3731715.3733349) · <strong><span class='show_paper_citations' data='SCHOLAR_ID_3'></span></strong>
-- A gibberish-based ranking anomaly detection method for speaker-level membership inference in CLAP.
+- We propose USMID, a text-only speaker-level membership inference detector for CLAP models. We query the target with randomly generated gibberish texts, extract CLAP text embeddings, and train anomaly detectors on these features; at inference, we embed a test text and use its anomaly score to decide membership (higher ⇒ member, lower ⇒ non-member).
+
 </div>
 </div>
 
@@ -57,6 +58,7 @@ I completed my undergraduate studies at Chien-Shiung Wu College, Southeast Unive
 **Ruoxi Cheng**, Yizhong Ding, Shuirong Cao, Ranjie Duan, Xiaoshuang Jia, Shaowei Yuan, Zhiqiang Wang, Xiaojun Jia
 
 [Code](https://github.com/Rosy0912/PBI-Attack) · [PDF](https://arxiv.org/pdf/2412.05892) · <strong><span class='show_paper_citations' data='SCHOLAR_ID_2'></span></strong>
+- We propose PBI-Attack, a Prior-Guided Bimodal Interactive Black-Box Jailbreak Attack for toxicity maximization. We first extract malicious features from a harmful corpus via an alternative LVLM and embed them into a benign image as prior knowledge. Then, we iteratively enhance these features through bidirectional cross-modal interaction and greedy search, alternately optimizing perturbations in both modalities to maximize response toxicity, as measured by a trained evaluation model.
 - Status: under review at EMNLP 2025; review scores: oa 3.67, meta 3.5.
 </div>
 </div>
@@ -70,6 +72,7 @@ I completed my undergraduate studies at Chien-Shiung Wu College, Southeast Unive
 **Ruoxi Cheng**, Haoxuan Ma, Weixin Wang, Zhiqiang Wang, Xiaoshuang Jia, Simeng Qin, Xiaochun Cao, Yang Liu, Xiaojun Jia
 
 [Code](https://github.com/Rosy0912/DR-IRL) · [PDF](https://arxiv.org/pdf/2503.18991) · <strong><span class='show_paper_citations' data='SCHOLAR_ID_4'></span></strong>
+- We propose DR-IRL, which dynamically adjusts rewards via inverse reinforcement learning. We first build a balanced safety dataset across seven harmful categories using Chain-of-Draft (CoD) prompts, reducing token usage and generation time compared to Chain-of-Thought. We then train category-specific reward models with IRL. Finally, we align the LLM using GRPO-S, a GRPO variant that scales rewards by task difficulty—combining data-level hardness from CLIP similarity and model-level responsiveness from reward gaps.
 - Status: under review at NeurIPS 2025; review scores: 4-4-4-2.
 </div>
 </div>
@@ -98,8 +101,13 @@ I completed my undergraduate studies at Chien-Shiung Wu College, Southeast Unive
 
 
 # 💻 Internships
-- *Feb 2025 – Present*, Alibaba Security (Supervisor: Ranjie Duan), Safety alignment training and evaluation for LLMs  
-- *Jul 2023 – Sep 2023*, Information Technology Headquarters, Guolian Securities (Supervisor: Honghui Xu), Development of a dialogue system based on LLMs
+- *Feb 2025 – Present*, **Alibaba Security** (Supervisor: Ranjie Duan)  
+  Safety alignment training and evaluation for LLMs.
+  Drafted sections of the technical report.
+
+- *Jul 2023 – Sep 2023*, **Information Technology Headquarters, Guolian Securities** (Supervisor: Honghui Xu)  
+  Cleaned and structured raw data for knowledge-graph integration.  
+  Trained and fine-tuned selected open-source LLMs using the curated knowledge-base data.
 
 
 # 💃 Skills & Interests
