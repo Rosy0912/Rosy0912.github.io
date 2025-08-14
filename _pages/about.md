@@ -27,7 +27,7 @@ I graduated in 2024 with a Bachelor’s degree in Artificial Intelligence from C
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025 (Under Review)</div><img src="/images/irl-drs.png" alt="IRL with DRS" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Inverse Reinforcement Learning with Dynamic Reward Scaling for LLM Alignment** [\[Paper\]](https://arxiv.org/pdf/2503.18991) · [\[Code\]](https://github.com/Rosy0912/DR-IRL)  <strong><span class='show_paper_citations' data='SCHOLAR_ID_4'></span></strong>
+**Inverse Reinforcement Learning with Dynamic Reward Scaling for LLM Alignment** [\[Paper\]](https://arxiv.org/pdf/2503.18991)  [\[Code\]](https://github.com/Rosy0912/DR-IRL)  <strong><span class='show_paper_citations' data='SCHOLAR_ID_4'></span></strong>
 
 **Ruoxi Cheng**, Haoxuan Ma, Weixin Wang, Zhiqiang Wang, Xiaoshuang Jia, Simeng Qin, Xiaochun Cao, Yang Liu, Xiaojun Jia
 
@@ -40,7 +40,7 @@ Under review at NeurIPS 2025; review scores: 4-4-4-2.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025 (Under Review)</div><img src="/images/pbi-attack.png" alt="PBI-Attack" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**PBI-Attack: Prior-Guided Bimodal Interactive Black-Box Jailbreak Attack for Toxicity Maximization** [\[Paper\]](https://arxiv.org/pdf/2412.05892) · [\[Code\]](https://github.com/Rosy0912/PBI-Attack)  <strong><span class='show_paper_citations' data='SCHOLAR_ID_2'></span></strong>
+**PBI-Attack: Prior-Guided Bimodal Interactive Black-Box Jailbreak Attack for Toxicity Maximization** [\[Paper\]](https://arxiv.org/pdf/2412.05892)  [\[Code\]](https://github.com/Rosy0912/PBI-Attack)  <strong><span class='show_paper_citations' data='SCHOLAR_ID_2'></span></strong>
 
 **Ruoxi Cheng**, Yizhong Ding, Shuirong Cao, Ranjie Duan, Xiaoshuang Jia, Shaowei Yuan, Zhiqiang Wang, Xiaojun Jia
 
@@ -52,7 +52,7 @@ Under review at EMNLP 2025; review scores: oa 3.67, meta 3.5.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICMR 2025</div><img src="/images/gibberish.png" alt="Gibberish" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Gibberish is All You Need for Membership Inference Detection in Contrastive Language-Audio Pretraining** [\[Paper\]](https://dl.acm.org/doi/pdf/10.1145/3731715.3733349) · [\[Code\]](https://github.com/Rosy0912/USMID)  <strong><span class='show_paper_citations' data='SCHOLAR_ID_3'></span></strong>
+**Gibberish is All You Need for Membership Inference Detection in Contrastive Language-Audio Pretraining** [\[Paper\]](https://dl.acm.org/doi/pdf/10.1145/3731715.3733349)  [\[Code\]](https://github.com/Rosy0912/USMID)  <strong><span class='show_paper_citations' data='SCHOLAR_ID_3'></span></strong>
 
 **Ruoxi Cheng**, Yizhong Ding, Shuirong Cao, Shitong Shao, Zhiqiang Wang
 
@@ -64,7 +64,7 @@ The 15th ACM International Conference on Multimedia Retrieval (ICMR 2025)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024 Workshop</div><img src="/images/rldf.png" alt="RLDF" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Reinforcement Learning from Multi-role Debates as Feedback for Bias Mitigation in LLMs** [\[Paper\]](https://openreview.net/pdf?id=aqLPNGxgTS) · [\[Code\]](https://github.com/Rosy0912/age_bias_data_processing) <strong><span class='show_paper_citations' data='SCHOLAR_ID_1'></span></strong>
+**Reinforcement Learning from Multi-role Debates as Feedback for Bias Mitigation in LLMs** [\[Paper\]](https://openreview.net/pdf?id=aqLPNGxgTS)  [\[Code\]](https://github.com/Rosy0912/age_bias_data_processing) <strong><span class='show_paper_citations' data='SCHOLAR_ID_1'></span></strong>
 
 **Ruoxi Cheng**, Haoxuan Ma, Shuirong Cao, Jiaqi Li, Aihua Pei, Zhiqiang Wang, Pengliang Ji, Haoyu Wang, Jiaqi Huo
 
