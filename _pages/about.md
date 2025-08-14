@@ -1,66 +1,59 @@
 I completed my undergraduate studies at Chien-Shiung Wu College, Southeast University (985 & 211), majoring in Artificial Intelligence, and graduated in 2024. Afterwards, I was admitted without examination to the Master’s program in Cyberspace Security at Beijing Electronic Science and Technology Institute, initially leaning toward a civil service career after early research setbacks. However, I was fortunate to be advised by [Dr. Xiaojun Jia](http://jiaxiaojunqaq.github.io/), a postdoctoral researcher at Nanyang Technological University, and to collaborate with [Weixin Wang](https://weixinwilliamwang.github.io/weixinwang.github.io/), [Haoxuan Ma](https://hunter-wrynn.github.io/), and many other friends. These experiences reignited my passion for academia and inspired me to pursue a Ph.D.
 
 
-
 # 📝 Publications 
 
 <!-- 1. RLDF -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024 Workshop</div>
-<img src="/images/rldf.png" alt="RLDF" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024 Workshop</div><img src="/images/rldf.png" alt="RLDF" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Reinforcement Learning from Multi-role Debates as Feedback for Bias Mitigation in LLMs](https://openreview.net/pdf?id=aqLPNGxgTS)
 
-Ruoxi Cheng, Haoxuan Ma, Shuirong Cao, Jiaqi Li, Aihua Pei, Zhiqiang Wang, Pengliang Ji>, Haoyu Wang, Jiaqi Huo
+**Ruoxi Cheng**, Haoxuan Ma, Shuirong Cao, Jiaqi Li, Aihua Pei, Zhiqiang Wang, Pengliang Ji, Haoyu Wang, Jiaqi Huo
 
-
-[Code](https://github.com/Rosy0912/age_bias_data_processing) · [PDF](https://openreview.net/pdf?id=aqLPNGxgTS) · <strong><span class='show_paper_citations' data='SCHOLAR_ID_1'></span></strong>  
+[Code](https://github.com/Rosy0912/age_bias_data_processing) · [PDF](https://openreview.net/pdf?id=aqLPNGxgTS) · <strong><span class='show_paper_citations' data='SCHOLAR_ID_1'></span></strong>
 - We propose a multi-role debate framework to mitigate bias in LLMs through pluralistic alignment.
 </div>
 </div>
 
 <!-- 2. Gibberish -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICMR 2025</div>
-<img src="/images/gibberish.png" alt="Gibberish" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICMR 2025</div><img src="/images/gibberish.png" alt="Gibberish" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Gibberish is All You Need for Membership Inference Detection in Contrastive Language-Audio Pretraining](https://dl.acm.org/doi/pdf/10.1145/3731715.3733349)
 
-Ruoxi Cheng, Yizhong Ding, Shuirong Cao, Shitong Shao, Zhiqiang Wang
+**Ruoxi Cheng**, Yizhong Ding, Shuirong Cao, Shitong Shao, Zhiqiang Wang
 
-[Code](https://github.com/Rosy0912/USMID) · [PDF](https://dl.acm.org/doi/pdf/10.1145/3731715.3733349) · <strong><span class='show_paper_citations' data='SCHOLAR_ID_3'></span></strong>  
+[Code](https://github.com/Rosy0912/USMID) · [PDF](https://dl.acm.org/doi/pdf/10.1145/3731715.3733349) · <strong><span class='show_paper_citations' data='SCHOLAR_ID_3'></span></strong>
 - A gibberish-based ranking anomaly detection method for speaker-level membership inference in CLAP.
 </div>
 </div>
 
 <!-- 3. PBI-Attack -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025 (Under Review)</div>
-<img src="/images/pbi-attack.png" alt="PBI-Attack" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025 (Under Review)</div><img src="/images/pbi-attack.png" alt="PBI-Attack" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [PBI-Attack: Prior-Guided Bimodal Interactive Black-Box Jailbreak Attack for Toxicity Maximization](https://arxiv.org/pdf/2412.05892)
 
-Ruoxi Cheng, Yizhong Ding, Shuirong Cao, Ranjie Duan, Xiaoshuang Jia, Shaowei Yuan, Zhiqiang Wang, Xiaojun Jia
+**Ruoxi Cheng**, Yizhong Ding, Shuirong Cao, Ranjie Duan, Xiaoshuang Jia, Shaowei Yuan, Zhiqiang Wang, Xiaojun Jia
 
-[Code](https://github.com/Rosy0912/PBI-Attack) · [PDF](https://arxiv.org/pdf/2412.05892) · <strong><span class='show_paper_citations' data='SCHOLAR_ID_2'></span></strong>  
+[Code](https://github.com/Rosy0912/PBI-Attack) · [PDF](https://arxiv.org/pdf/2412.05892) · <strong><span class='show_paper_citations' data='SCHOLAR_ID_2'></span></strong>
 - Status: under review at EMNLP 2025; review scores: oa 3.67, meta 3.5.
 </div>
 </div>
 
 <!-- 4. IRL with DRS -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025 (Under Review)</div>
-<img src="/images/irl-drs.png" alt="IRL with DRS" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025 (Under Review)</div><img src="/images/irl-drs.png" alt="IRL with DRS" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Inverse Reinforcement Learning with Dynamic Reward Scaling for LLM Alignment](https://arxiv.org/pdf/2503.18991)
 
-Ruoxi Cheng, Haoxuan Ma, Weixin Wang, Zhiqiang Wang, Xiaoshuang Jia, Simeng Qin, Xiaochun Cao, Yang Liu, Xiaojun Jia
+**Ruoxi Cheng**, Haoxuan Ma, Weixin Wang, Zhiqiang Wang, Xiaoshuang Jia, Simeng Qin, Xiaochun Cao, Yang Liu, Xiaojun Jia
 
-[Code](https://github.com/Rosy0912/DR-IRL) · [PDF](https://arxiv.org/pdf/2503.18991) · <strong><span class='show_paper_citations' data='SCHOLAR_ID_4'></span></strong>  
+[Code](https://github.com/Rosy0912/DR-IRL) · [PDF](https://arxiv.org/pdf/2503.18991) · <strong><span class='show_paper_citations' data='SCHOLAR_ID_4'></span></strong>
 - Status: under review at NeurIPS 2025; review scores: 4-4-4-2.
 </div>
 </div>
-
 
 
 
