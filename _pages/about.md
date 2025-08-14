@@ -23,7 +23,6 @@ I completed my undergraduate studies at Chien-Shiung Wu College, Southeast Unive
 
 # 📝 Publications 
 
-<!-- 1. RLDF -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024 Workshop</div><img src="/images/rldf.png" alt="RLDF" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -36,7 +35,7 @@ I completed my undergraduate studies at Chien-Shiung Wu College, Southeast Unive
 </div>
 </div>
 
-<!-- 2. Gibberish -->
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICMR 2025</div><img src="/images/gibberish.png" alt="Gibberish" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -49,7 +48,7 @@ I completed my undergraduate studies at Chien-Shiung Wu College, Southeast Unive
 </div>
 </div>
 
-<!-- 3. PBI-Attack -->
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025 (Under Review)</div><img src="/images/pbi-attack.png" alt="PBI-Attack" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -62,7 +61,7 @@ I completed my undergraduate studies at Chien-Shiung Wu College, Southeast Unive
 </div>
 </div>
 
-<!-- 4. IRL with DRS -->
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025 (Under Review)</div><img src="/images/irl-drs.png" alt="IRL with DRS" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
