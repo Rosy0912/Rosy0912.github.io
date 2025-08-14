@@ -18,51 +18,10 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I completed my undergraduate studies at Chien-Shiung Wu College, Southeast University (985 & 211), majoring in Artificial Intelligence, and graduated in 2024. Afterwards, I was admitted without examination to the Master’s program in Cyberspace Security at Beijing Electronic Science and Technology Institute, initially leaning toward a civil service career after early research setbacks. However, I was fortunate to be advised by [Dr. Xiaojun Jia](http://jiaxiaojunqaq.github.io/), a postdoctoral researcher at Nanyang Technological University, and to collaborate with [Weixin Wang](https://weixinwilliamwang.github.io/weixinwang.github.io/), [Haoxuan Ma](https://hunter-wrynn.github.io/), and many other friends. These experiences reignited my passion for academia and inspired me to pursue a Ph.D.
+I graduated in 2024 with a Bachelor’s degree in Artificial Intelligence from Chien-Shiung Wu College, Southeast University (985 & 211). Afterwards, I was admitted without examination to the Master’s program at Beijing Electronic Science and Technology Institute, initially leaning toward a civil service career after early research setbacks. However, I was fortunate to be advised by [Dr. Xiaojun Jia](http://jiaxiaojunqaq.github.io/), a postdoctoral researcher at Nanyang Technological University, and to collaborate with [Weixin Wang](https://weixinwilliamwang.github.io/weixinwang.github.io/), [Haoxuan Ma](https://hunter-wrynn.github.io/), and many other friends. These experiences reignited my passion for academia and inspired me to pursue a Ph.D.
 
 
 # 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024 Workshop</div><img src="/images/rldf.png" alt="RLDF" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Reinforcement Learning from Multi-role Debates as Feedback for Bias Mitigation in LLMs](https://openreview.net/pdf?id=aqLPNGxgTS)
-
-**Ruoxi Cheng**, Haoxuan Ma, Shuirong Cao, Jiaqi Li, Aihua Pei, Zhiqiang Wang, Pengliang Ji, Haoyu Wang, Jiaqi Huo
-
-[Code](https://github.com/Rosy0912/age_bias_data_processing) · [PDF](https://openreview.net/pdf?id=aqLPNGxgTS)  <strong><span class='show_paper_citations' data='SCHOLAR_ID_1'></span></strong>
-- We propose Reinforcement Learning from Multi-role Debates as Feedback (RLDF), a novel approach for bias mitigation replacing human feedback in traditional RLHF. We utilize LLMs in multi-role debates to create a dataset that includes both high-bias and low-bias instances for training the reward model in reinforcement learning.
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICMR 2025</div><img src="/images/gibberish.png" alt="Gibberish" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Gibberish is All You Need for Membership Inference Detection in Contrastive Language-Audio Pretraining](https://dl.acm.org/doi/pdf/10.1145/3731715.3733349)
-
-**Ruoxi Cheng**, Yizhong Ding, Shuirong Cao, Shitong Shao, Zhiqiang Wang
-
-[Code](https://github.com/Rosy0912/USMID) · [PDF](https://dl.acm.org/doi/pdf/10.1145/3731715.3733349)  <strong><span class='show_paper_citations' data='SCHOLAR_ID_3'></span></strong>
-- We propose USMID, a text-only speaker-level membership inference detector for CLAP models. We query the target with randomly generated gibberish texts, extract CLAP text embeddings, and train anomaly detectors on these features; at inference, we embed a test text and use its anomaly score to decide membership (higher ⇒ member, lower ⇒ non-member).
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025 (Under Review)</div><img src="/images/pbi-attack.png" alt="PBI-Attack" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[PBI-Attack: Prior-Guided Bimodal Interactive Black-Box Jailbreak Attack for Toxicity Maximization](https://arxiv.org/pdf/2412.05892)
-
-**Ruoxi Cheng**, Yizhong Ding, Shuirong Cao, Ranjie Duan, Xiaoshuang Jia, Shaowei Yuan, Zhiqiang Wang, Xiaojun Jia
-
-[Code](https://github.com/Rosy0912/PBI-Attack) · [PDF](https://arxiv.org/pdf/2412.05892)  <strong><span class='show_paper_citations' data='SCHOLAR_ID_2'></span></strong>
-- We propose PBI-Attack, a Prior-Guided Bimodal Interactive Black-Box Jailbreak Attack for toxicity maximization. We first extract malicious features from a harmful corpus via an alternative LVLM and embed them into a benign image as prior knowledge. Then, we iteratively enhance these features through bidirectional cross-modal interaction and greedy search, alternately optimizing perturbations in both modalities to maximize response toxicity, as measured by a trained evaluation model.
-- Status: under review at EMNLP 2025; review scores: oa 3.67, meta 3.5.
-</div>
-</div>
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025 (Under Review)</div><img src="/images/irl-drs.png" alt="IRL with DRS" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -79,19 +38,67 @@ I completed my undergraduate studies at Chien-Shiung Wu College, Southeast Unive
 
 
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025 (Under Review)</div><img src="/images/pbi-attack.png" alt="PBI-Attack" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[PBI-Attack: Prior-Guided Bimodal Interactive Black-Box Jailbreak Attack for Toxicity Maximization](https://arxiv.org/pdf/2412.05892)
+
+**Ruoxi Cheng**, Yizhong Ding, Shuirong Cao, Ranjie Duan, Xiaoshuang Jia, Shaowei Yuan, Zhiqiang Wang, Xiaojun Jia
+
+[Code](https://github.com/Rosy0912/PBI-Attack) · [PDF](https://arxiv.org/pdf/2412.05892)  <strong><span class='show_paper_citations' data='SCHOLAR_ID_2'></span></strong>
+- We propose PBI-Attack, a Prior-Guided Bimodal Interactive Black-Box Jailbreak Attack for toxicity maximization. We first extract malicious features from a harmful corpus via an alternative LVLM and embed them into a benign image as prior knowledge. Then, we iteratively enhance these features through bidirectional cross-modal interaction and greedy search, alternately optimizing perturbations in both modalities to maximize response toxicity, as measured by a trained evaluation model.
+- Status: under review at EMNLP 2025; review scores: oa 3.67, meta 3.5.
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICMR 2025</div><img src="/images/gibberish.png" alt="Gibberish" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Gibberish is All You Need for Membership Inference Detection in Contrastive Language-Audio Pretraining](https://dl.acm.org/doi/pdf/10.1145/3731715.3733349)
+
+**Ruoxi Cheng**, Yizhong Ding, Shuirong Cao, Shitong Shao, Zhiqiang Wang
+
+[Code](https://github.com/Rosy0912/USMID) · [PDF](https://dl.acm.org/doi/pdf/10.1145/3731715.3733349)  <strong><span class='show_paper_citations' data='SCHOLAR_ID_3'></span></strong>
+- We propose USMID, a text-only speaker-level membership inference detector for CLAP models. We query the target with randomly generated gibberish texts, extract CLAP text embeddings, and train anomaly detectors on these features; at inference, we embed a test text and use its anomaly score to decide membership (higher ⇒ member, lower ⇒ non-member).
+
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024 Workshop</div><img src="/images/rldf.png" alt="RLDF" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Reinforcement Learning from Multi-role Debates as Feedback for Bias Mitigation in LLMs](https://openreview.net/pdf?id=aqLPNGxgTS)
+
+**Ruoxi Cheng**, Haoxuan Ma, Shuirong Cao, Jiaqi Li, Aihua Pei, Zhiqiang Wang, Pengliang Ji, Haoyu Wang, Jiaqi Huo
+
+[Code](https://github.com/Rosy0912/age_bias_data_processing) · [PDF](https://openreview.net/pdf?id=aqLPNGxgTS)  <strong><span class='show_paper_citations' data='SCHOLAR_ID_1'></span></strong>
+- We propose Reinforcement Learning from Multi-role Debates as Feedback (RLDF), a novel approach for bias mitigation replacing human feedback in traditional RLHF. We utilize LLMs in multi-role debates to create a dataset that includes both high-bias and low-bias instances for training the reward model in reinforcement learning.
+</div>
+</div>
+
+
+
+
+
+
 # 🎖 Honors and Awards
-- *2025* Second Prize, National Software Innovation Competition — North China Region
-- *2024* Third Prize, “Huawei Cup” National Cybersecurity Innovation Competition
-- *2024* Outstanding Undergraduate Thesis (Top 3%)
-- *2021* Merit Student Award of Southeast University
-- *2021* Second Prize, National Undergraduate Mathematics Competition
-- *2018 & 2019* First Prize, Chinese Mathematical Olympiad — Jiangsu Province
+- *2025*, Second Prize, National Software Innovation Competition — North China Region
+- *2024*, Third Prize, “Huawei Cup” National Cybersecurity Innovation Competition
+- *2024*, Outstanding Undergraduate Thesis (Top 3%)
+- *2021*, Merit Student Award of Southeast University
+- *2021*, Second Prize, National Undergraduate Mathematics Competition
+- *2018 & 2019*, First Prize, Chinese Mathematical Olympiad — Jiangsu Province
 
 
 
 # 📖 Educations
-- 2024.09 – Present, M.S., Beijing Electronic Science and Technology Institute (BESTI), Beijing, China  
-- 2020.09 – 2024.06, B.S., Chien-shiung Wu College, Southeast University (SEU, 985 & 211), Nanjing, China
+- *2024.09 – Present, M.S.*, Beijing Electronic Science and Technology Institute (BESTI), Beijing, China  
+- *2020.09 – 2024.06, B.S.*, Chien-shiung Wu College, Southeast University (SEU, 985 & 211), Nanjing, China
 
 
 # 💻 Internships
@@ -104,13 +111,12 @@ I completed my undergraduate studies at Chien-Shiung Wu College, Southeast Unive
   Trained and fine-tuned selected open-source LLMs using the curated knowledge-base data.  
 
 
-
 # 💃 Skills & Interests
-- Languages: English – IELTS 7.0 (Listening 7.5, Reading 8.0, Writing 6.5, Speaking 6.0); CET-6: 585  
-- Programming: Python, C++, PyTorch, TensorFlow, MySQL, Navicat, SPSS  
-- Chinese Dance: Level-10 Excellence; First Prize, Solo Dance Competition, Wuxi, Jiangsu Province (2015, 2018)  
+- **Languages**: English – IELTS 7.0 (Listening 7.5, Reading 8.0, Writing 6.5, Speaking 6.0); CET-6: 585  
+- **Programming**: Python, C++, PyTorch, TensorFlow, MySQL, Navicat, SPSS  
+- **Chinese Dance**: Level-10 Excellence; First Prize, Solo Dance Competition, Wuxi, Jiangsu Province (2015, 2018)  
 
 # 🌍 Social Practice
-- *Jun 2019 – Sep 2021*, Talented Youth Initiative, Peking University – Vice Leader of Applied Science & Engineering Study Group  
 - *Jul 2021 – Aug 2021*, Village Elementary School Teaching, Xiangyang, Hubei – Volunteer, National Education Support Project  
+- *Jun 2019 – Sep 2021*, Talented Youth Initiative, Peking University – Vice Leader of Applied Science & Engineering Study Group  
 
