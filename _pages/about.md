@@ -124,3 +124,33 @@ Pluralistic Alignment Workshop at NeurIPS 2024
 - *Jul 2021 – Aug 2021*, Village Elementary School Teaching, Xiangyang, Hubei – Volunteer, National Education Support Project  
 - *Jun 2019 – Sep 2021*, Talented Youth Initiative, Peking University – Vice Leader of Applied Science & Engineering Study Group  
 
+
+
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ClustrMaps Globe</title>
+    <style>
+        .map-container {
+            width: 30vw; /* 让地图宽度占屏幕 20% */
+            margin: 0 auto; /* 水平居中 */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+    </style>
+</head>
+<body>
+
+
+    <div style="width: 30vw; margin: 0 auto; display: flex; justify-content: center;">
+    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=yBnTa5sPCfGKRZNkif_QRx-81rNgn5C9MJcCyBHbwe0&cl=ffffff&w=a"></script>
+    </div>
+
+</body>
+</html>
+
+
+
+
