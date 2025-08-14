@@ -102,8 +102,8 @@ Pluralistic Alignment Workshop at NeurIPS 2024
 
 
 # 📖 Educations
-- *2024.09 – Present, M.S.*, Beijing Electronic Science and Technology Institute (BESTI), Beijing, China  
-- *2020.09 – 2024.06, B.S.*, Chien-shiung Wu College, Southeast University (SEU, 985 & 211), Nanjing, China
+- *2024.09 – Present, M.S.*, Beijing Electronic Science and Technology Institute, Beijing, China  
+- *2020.09 – 2024.06, B.S.*, Chien-shiung Wu College, Southeast University, Nanjing, China
 
 
 # 💻 Internships
