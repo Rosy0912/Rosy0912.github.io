@@ -27,11 +27,10 @@ I graduated in 2024 with a Bachelor’s degree in Artificial Intelligence from C
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025 (Under Review)</div><img src="/images/irl-drs.png" alt="IRL with DRS" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Inverse Reinforcement Learning with Dynamic Reward Scaling for LLM Alignment**
+**Inverse Reinforcement Learning with Dynamic Reward Scaling for LLM Alignment** [\[Paper\]](https://arxiv.org/pdf/2503.18991) · [\[Code\]](https://github.com/Rosy0912/DR-IRL)  <strong><span class='show_paper_citations' data='SCHOLAR_ID_4'></span></strong>
 
 **Ruoxi Cheng**, Haoxuan Ma, Weixin Wang, Zhiqiang Wang, Xiaoshuang Jia, Simeng Qin, Xiaochun Cao, Yang Liu, Xiaojun Jia
 
-[\[Paper\]](https://arxiv.org/pdf/2503.18991) · [\[Code\]](https://github.com/Rosy0912/DR-IRL)  <strong><span class='show_paper_citations' data='SCHOLAR_ID_4'></span></strong>
 
 Under review at NeurIPS 2025; review scores: 4-4-4-2.
 </div>
