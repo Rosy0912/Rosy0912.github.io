@@ -4,7 +4,7 @@ main:
     url: "/#about-me"
 
   - title: "Selected Papers"
-    url: "/#Selected-Papers"
+    url: "/#selected-papers"
 
   - title: "Honors and Awards"
     url: "/#honors-and-awards"
@@ -13,13 +13,13 @@ main:
     url: "/#educations"
 
   - title: "Internships"
-    url: "/#Internships"
+    url: "/#internships"
 
   - title: "Skills & Interests"
-    url: "/#Skills-&-Interests"
+    url: "/#skills--interests"
 
 
   - title: "Social Practice"
-    url: "/#Social-Practice"
+    url: "/#social-practice"
 
 
