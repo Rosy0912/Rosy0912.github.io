@@ -37,54 +37,40 @@ Under review at NeurIPS 2025; review scores: 4-4-4-2.
 </div>
 
 
-
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025 (Under Review)</div><img src="/images/pbi-attack.png" alt="PBI-Attack" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[PBI-Attack: Prior-Guided Bimodal Interactive Black-Box Jailbreak Attack for Toxicity Maximization](https://arxiv.org/pdf/2412.05892)
+**PBI-Attack: Prior-Guided Bimodal Interactive Black-Box Jailbreak Attack for Toxicity Maximization** [\[Paper\]](https://arxiv.org/pdf/2412.05892) · [\[Code\]](https://github.com/Rosy0912/PBI-Attack)  <strong><span class='show_paper_citations' data='SCHOLAR_ID_2'></span></strong>
 
 **Ruoxi Cheng**, Yizhong Ding, Shuirong Cao, Ranjie Duan, Xiaoshuang Jia, Shaowei Yuan, Zhiqiang Wang, Xiaojun Jia
-
-[Paper](https://arxiv.org/pdf/2412.05892) · [Code](https://github.com/Rosy0912/PBI-Attack)  <strong><span class='show_paper_citations' data='SCHOLAR_ID_2'></span></strong>
 
 Under review at EMNLP 2025; review scores: oa 3.67, meta 3.5.
 </div>
 </div>
 
 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICMR 2025</div><img src="/images/gibberish.png" alt="Gibberish" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Gibberish is All You Need for Membership Inference Detection in Contrastive Language-Audio Pretraining](https://dl.acm.org/doi/pdf/10.1145/3731715.3733349)
+**Gibberish is All You Need for Membership Inference Detection in Contrastive Language-Audio Pretraining** [\[Paper\]](https://dl.acm.org/doi/pdf/10.1145/3731715.3733349) · [\[Code\]](https://github.com/Rosy0912/USMID)  <strong><span class='show_paper_citations' data='SCHOLAR_ID_3'></span></strong>
 
 **Ruoxi Cheng**, Yizhong Ding, Shuirong Cao, Shitong Shao, Zhiqiang Wang
 
-[Paper](https://dl.acm.org/doi/pdf/10.1145/3731715.3733349) · [Code](https://github.com/Rosy0912/USMID)  <strong><span class='show_paper_citations' data='SCHOLAR_ID_3'></span></strong>
-
 The 15th ACM International Conference on Multimedia Retrieval (ICMR 2025)
-
 </div>
 </div>
-
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024 Workshop</div><img src="/images/rldf.png" alt="RLDF" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Reinforcement Learning from Multi-role Debates as Feedback for Bias Mitigation in LLMs](https://openreview.net/pdf?id=aqLPNGxgTS)
+**Reinforcement Learning from Multi-role Debates as Feedback for Bias Mitigation in LLMs** [\[Paper\]](https://openreview.net/pdf?id=aqLPNGxgTS) · [\[Code\]](https://github.com/Rosy0912/age_bias_data_processing) <strong><span class='show_paper_citations' data='SCHOLAR_ID_1'></span></strong>
 
 **Ruoxi Cheng**, Haoxuan Ma, Shuirong Cao, Jiaqi Li, Aihua Pei, Zhiqiang Wang, Pengliang Ji, Haoyu Wang, Jiaqi Huo
 
-[Paper](https://openreview.net/pdf?id=aqLPNGxgTS)  ·  [Code](https://github.com/Rosy0912/age_bias_data_processing) <strong><span class='show_paper_citations' data='SCHOLAR_ID_1'></span></strong>
-
 Pluralistic Alignment Workshop at NeurIPS 2024
-
 </div>
 </div>
-
-
 
 
 
