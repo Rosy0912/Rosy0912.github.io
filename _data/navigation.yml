@@ -3,11 +3,8 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "News"
-    url: "/#-news"
-
-  - title: "Publications"
-    url: "/#-publications"
+  - title: "Selected Papers"
+    url: "/#-Selected Papers"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
@@ -15,8 +12,14 @@ main:
   - title: "Educations"
     url: "/#-educations"
 
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
-
   - title: "Internships"
-    url: "/#-internships"
+    url: "/#-Internships"
+
+  - title: "Skills & Interests"
+    url: "/#-Skills & Interests"
+
+
+  - title: "Social Practice"
+    url: "/#-Social Practice"
+
+
