@@ -18,10 +18,10 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I graduated in 2024 with a Bachelor’s degree in Artificial Intelligence from Chien-Shiung Wu College, Southeast University (985 & 211). Afterwards, I was admitted without examination to the Master’s program at Beijing Electronic Science and Technology Institute, initially leaning toward a civil service career after early research setbacks. However, I was fortunate to be advised by [Dr. Xiaojun Jia](http://jiaxiaojunqaq.github.io/), a postdoctoral researcher at Nanyang Technological University, and to collaborate with [Weixin Wang](https://weixinwilliamwang.github.io/weixinwang.github.io/), [Haoxuan Ma](https://hunter-wrynn.github.io/), and many other friends. These experiences reignited my passion for academia and inspired me to pursue a Ph.D.
+I graduated in 2024 with a Bachelor’s degree in Artificial Intelligence from Chien-Shiung Wu College, Southeast University (SEU, 985 & 211). Afterwards, I was admitted without examination to the Master’s program at Beijing Electronic Science and Technology Institute (BESTI), initially leaning toward a civil service career after early research setbacks. However, I was fortunate to be advised by [Dr. Xiaojun Jia](http://jiaxiaojunqaq.github.io/), a postdoctoral researcher at Nanyang Technological University, and to collaborate with [Weixin Wang](https://weixinwilliamwang.github.io/weixinwang.github.io/), [Haoxuan Ma](https://hunter-wrynn.github.io/), and many other friends. These experiences reignited my passion for academia and inspired me to pursue a Ph.D.
 
 
-# 📝 Publications 
+# 📝 Selected Papers 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025 (Under Review)</div><img src="/images/irl-drs.png" alt="IRL with DRS" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -30,9 +30,8 @@ I graduated in 2024 with a Bachelor’s degree in Artificial Intelligence from C
 
 **Ruoxi Cheng**, Haoxuan Ma, Weixin Wang, Zhiqiang Wang, Xiaoshuang Jia, Simeng Qin, Xiaochun Cao, Yang Liu, Xiaojun Jia
 
-[Code](https://github.com/Rosy0912/DR-IRL) · [PDF](https://arxiv.org/pdf/2503.18991)  <strong><span class='show_paper_citations' data='SCHOLAR_ID_4'></span></strong>
-- We propose DR-IRL, which dynamically adjusts rewards via inverse reinforcement learning. We first build a balanced safety dataset across seven harmful categories using Chain-of-Draft (CoD) prompts, reducing token usage and generation time compared to Chain-of-Thought. We then train category-specific reward models with IRL. Finally, we align the LLM using GRPO-S, a GRPO variant that scales rewards by task difficulty—combining data-level hardness from CLIP similarity and model-level responsiveness from reward gaps.
-- Status: under review at NeurIPS 2025; review scores: 4-4-4-2.
+[Paper](https://arxiv.org/pdf/2503.18991) · [Code](https://github.com/Rosy0912/DR-IRL)  <strong><span class='show_paper_citations' data='SCHOLAR_ID_4'></span></strong>
+- Under review at NeurIPS 2025; review scores: 4-4-4-2.
 </div>
 </div>
 
@@ -46,9 +45,8 @@ I graduated in 2024 with a Bachelor’s degree in Artificial Intelligence from C
 
 **Ruoxi Cheng**, Yizhong Ding, Shuirong Cao, Ranjie Duan, Xiaoshuang Jia, Shaowei Yuan, Zhiqiang Wang, Xiaojun Jia
 
-[Code](https://github.com/Rosy0912/PBI-Attack) · [PDF](https://arxiv.org/pdf/2412.05892)  <strong><span class='show_paper_citations' data='SCHOLAR_ID_2'></span></strong>
-- We propose PBI-Attack, a Prior-Guided Bimodal Interactive Black-Box Jailbreak Attack for toxicity maximization. We first extract malicious features from a harmful corpus via an alternative LVLM and embed them into a benign image as prior knowledge. Then, we iteratively enhance these features through bidirectional cross-modal interaction and greedy search, alternately optimizing perturbations in both modalities to maximize response toxicity, as measured by a trained evaluation model.
-- Status: under review at EMNLP 2025; review scores: oa 3.67, meta 3.5.
+[Paper](https://arxiv.org/pdf/2412.05892) · [Code](https://github.com/Rosy0912/PBI-Attack)  <strong><span class='show_paper_citations' data='SCHOLAR_ID_2'></span></strong>
+- Under review at EMNLP 2025; review scores: oa 3.67, meta 3.5.
 </div>
 </div>
 
@@ -61,8 +59,8 @@ I graduated in 2024 with a Bachelor’s degree in Artificial Intelligence from C
 
 **Ruoxi Cheng**, Yizhong Ding, Shuirong Cao, Shitong Shao, Zhiqiang Wang
 
-[Code](https://github.com/Rosy0912/USMID) · [PDF](https://dl.acm.org/doi/pdf/10.1145/3731715.3733349)  <strong><span class='show_paper_citations' data='SCHOLAR_ID_3'></span></strong>
-- We propose USMID, a text-only speaker-level membership inference detector for CLAP models. We query the target with randomly generated gibberish texts, extract CLAP text embeddings, and train anomaly detectors on these features; at inference, we embed a test text and use its anomaly score to decide membership (higher ⇒ member, lower ⇒ non-member).
+[Paper](https://dl.acm.org/doi/pdf/10.1145/3731715.3733349) · [Code](https://github.com/Rosy0912/USMID)  <strong><span class='show_paper_citations' data='SCHOLAR_ID_3'></span></strong>
+- The 15th ACM International Conference on Multimedia Retrieval (ICMR 2025)
 
 </div>
 </div>
@@ -76,8 +74,8 @@ I graduated in 2024 with a Bachelor’s degree in Artificial Intelligence from C
 
 **Ruoxi Cheng**, Haoxuan Ma, Shuirong Cao, Jiaqi Li, Aihua Pei, Zhiqiang Wang, Pengliang Ji, Haoyu Wang, Jiaqi Huo
 
-[Code](https://github.com/Rosy0912/age_bias_data_processing) · [PDF](https://openreview.net/pdf?id=aqLPNGxgTS)  <strong><span class='show_paper_citations' data='SCHOLAR_ID_1'></span></strong>
-- We propose Reinforcement Learning from Multi-role Debates as Feedback (RLDF), a novel approach for bias mitigation replacing human feedback in traditional RLHF. We utilize LLMs in multi-role debates to create a dataset that includes both high-bias and low-bias instances for training the reward model in reinforcement learning.
+[Paper](https://openreview.net/pdf?id=aqLPNGxgTS)  ·  [Code](https://github.com/Rosy0912/age_bias_data_processing) <strong><span class='show_paper_citations' data='SCHOLAR_ID_1'></span></strong>
+- Pluralistic Alignment Workshop at NeurIPS 2024
 </div>
 </div>
 
@@ -87,6 +85,7 @@ I graduated in 2024 with a Bachelor’s degree in Artificial Intelligence from C
 
 
 # 🎖 Honors and Awards
+- *2025*, First‑Class Academic Scholarship at BESTI
 - *2025*, Second Prize, National Software Innovation Competition — North China Region
 - *2024*, Third Prize, “Huawei Cup” National Cybersecurity Innovation Competition
 - *2024*, Outstanding Undergraduate Thesis (Top 3%)
@@ -103,12 +102,12 @@ I graduated in 2024 with a Bachelor’s degree in Artificial Intelligence from C
 
 # 💻 Internships
 - *Feb 2025 – Present*, **Alibaba Security** (Supervisor: Ranjie Duan)  
-  Safety alignment training and evaluation for LLMs.  
-  Drafted sections of the technical report.  
+  Contributed to the alignment training and evaluation of LLMs.  
+  Drafted part of the technical report.  
 
 - *Jul 2023 – Sep 2023*, **Information Technology Headquarters, Guolian Securities** (Supervisor: Honghui Xu)  
   Cleaned and structured raw data for knowledge-graph integration.  
-  Trained and fine-tuned selected open-source LLMs using the curated knowledge-base data.  
+  Trained and fine-tuned open-source LLMs using the curated knowledge-base data.  
 
 
 # 💃 Skills & Interests
