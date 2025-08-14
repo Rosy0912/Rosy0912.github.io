@@ -1,58 +1,109 @@
----
-permalink: /
-title: ""
-excerpt: ""
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
-<span class='anchor' id='about-me'></span>
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I completed my undergraduate studies at Chien-Shiung Wu College, Southeast University (985 & 211), majoring in Artificial Intelligence, and graduated in 2024. Afterwards, I was admitted without examination to the Master’s program in Cyberspace Security at Beijing Electronic Science and Technology Institute, initially leaning toward a civil service career after early research setbacks. However, I was fortunate to be advised by [Dr. Xiaojun Jia](http://jiaxiaojunqaq.github.io/), a postdoctoral researcher at Nanyang Technological University, and to collaborate with [Weixin Wang](https://weixinwilliamwang.github.io/weixinwang.github.io/), [Haoxuan Ma](https://hunter-wrynn.github.io/), and many other friends. These experiences reignited my passion for academia and inspired me to pursue a Ph.D.
 
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📝 Publications 
+# 📄 Accepted Papers
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<!-- 1. RLDF -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024 Workshop</div>
+<img src='images/rldf.png' alt="RLDF" width="100%">
+</div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Reinforcement Learning from Multi-role Debates as Feedback for Bias Mitigation in LLMs](https://openreview.net/pdf?id=aqLPNGxgTS)  
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Ruoxi Cheng**<sup>1,2,∗</sup>, Haoxuan Ma<sup>2,∗</sup>, Shuirong Cao<sup>3,∗</sup>, Jiaqi Li<sup>2</sup>, Aihua Pei<sup>4</sup>, Zhiqiang Wang<sup>1,†</sup>, Pengliang Ji<sup>5</sup>, Haoyu Wang<sup>1</sup>, Jiaqi Huo<sup>6</sup>  
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Code**](https://github.com/Rosy0912/age_bias_data_processing) · [**PDF**](https://openreview.net/pdf?id=aqLPNGxgTS) · <strong><span class='show_paper_citations' data='SCHOLAR_ID_1'></span></strong>  
+
+- We propose a multi-role debate framework to mitigate bias in LLMs through pluralistic alignment.  
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+---
+
+<!-- 3. Gibberish -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICMR 2025</div>
+<img src='images/gibberish.png' alt="Gibberish" width="100%">
+</div></div>
+<div class='paper-box-text' markdown="1">
+
+[Gibberish is All You Need for Membership Inference Detection in Contrastive Language-Audio Pretraining](https://dl.acm.org/doi/pdf/10.1145/3731715.3733349)  
+
+**Ruoxi Cheng**, Yizhong Ding, Shuirong Cao, Shitong Shao, Zhiqiang Wang  
+
+[**Code**](https://github.com/Rosy0912/USMID) · [**PDF**](https://dl.acm.org/doi/pdf/10.1145/3731715.3733349) · <strong><span class='show_paper_citations' data='SCHOLAR_ID_3'></span></strong>  
+
+- We introduce a gibberish-based ranking anomaly detection method for speaker-level membership inference in CLAP models.  
+</div>
+</div>
+
+---
+
+# 📝 Under Review
+
+<!-- 2. PBI-Attack -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025 (Under Review)</div>
+<img src='images/pbi-attack.png' alt="PBI-Attack" width="100%">
+</div></div>
+<div class='paper-box-text' markdown="1">
+
+[PBI-Attack: Prior-Guided Bimodal Interactive Black-Box Jailbreak Attack for Toxicity Maximization](https://arxiv.org/pdf/2412.05892)  
+
+**Ruoxi Cheng**, Yizhong Ding, Shuirong Cao, Ranjie Duan, Xiaoshuang Jia, Shaowei Yuan, Zhiqiang Wang, Xiaojun Jia  
+
+[**Code**](https://github.com/Rosy0912/PBI-Attack) · [**PDF**](https://arxiv.org/pdf/2412.05892) · <strong><span class='show_paper_citations' data='SCHOLAR_ID_2'></span></strong>  
+
+- **Status:** Under review at *EMNLP 2025*, review scores: `oa 3.67`, `meta 3.5`.  
+- A novel black-box jailbreak attack leveraging prior-guided multimodal interaction to maximize toxicity in target models.  
+</div>
+</div>
+
+---
+
+<!-- 4. IRL with DRS -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025 (Under Review)</div>
+<img src='images/irl-drs.png' alt="IRL with Dynamic Reward Scaling" width="100%">
+</div></div>
+<div class='paper-box-text' markdown="1">
+
+[Inverse Reinforcement Learning with Dynamic Reward Scaling for LLM Alignment](https://arxiv.org/pdf/2503.18991)  
+
+**Ruoxi Cheng**, Haoxuan Ma, Weixin Wang, Zhiqiang Wang, Xiaoshuang Jia, Simeng Qin, Xiaochun Cao, Yang Liu, Xiaojun Jia  
+
+[**Code**](https://github.com/Rosy0912/DR-IRL) · [**PDF**](https://arxiv.org/pdf/2503.18991) · <strong><span class='show_paper_citations' data='SCHOLAR_ID_4'></span></strong>  
+
+- **Status:** Under review at *NeurIPS 2025*, review scores: `4-4-4-2`.  
+- This work integrates dynamic reward scaling into IRL to enhance LLM safety alignment without sacrificing general performance.  
+</div>
+</div>
+
+
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025* Second Prize, National Software Innovation Competition — North China Region
+- *2024* Third Prize, “Huawei Cup” National Cybersecurity Innovation Competition
+- *2024* Outstanding Undergraduate Thesis (Top 3%)
+- *2021* Merit Student Award of Southeast University
+- *2021* Second Prize, National Undergraduate Mathematics Competition
+- *2018 & 2019* First Prize, Chinese Mathematical Olympiad — Jiangsu Province
+
+
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2024.09 – Present*  
+  Beijing Electronic Science and Technology Institute (BESTI), Beijing, China  
+  Master of Cyberspace Security · Average Score: 89.7/100  
+
+- *2020.09 – 2024.06*  
+  Chien-shiung Wu College, Southeast University (SEU, 985&211), Nanjing, Jiangsu, China  
+  Bachelor of Artificial Intelligence · Average Score: 85.5/100  
+
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *Feb 2025 – Present*, Alibaba Security (Supervisor: Ranjie Duan), Safety alignment training and evaluation for LLMs  
+- *Jul 2023 – Sep 2023*, Information Technology Headquarters, Guolian Securities (Supervisor: Honghui Xu), Development of a dialogue system based on LLMs
+
+
+
