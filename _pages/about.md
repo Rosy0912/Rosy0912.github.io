@@ -2,81 +2,65 @@ I completed my undergraduate studies at Chien-Shiung Wu College, Southeast Unive
 
 
 
-# 📄 Accepted Papers
+# 📝 Publications 
 
 <!-- 1. RLDF -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024 Workshop</div>
-<img src='/images/rldf.png' alt="RLDF" width="100%">
-</div></div>
+<img src='{{ "/images/rldf.png" | relative_url }}' alt="RLDF" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Reinforcement Learning from Multi-role Debates as Feedback for Bias Mitigation in LLMs](https://openreview.net/pdf?id=aqLPNGxgTS)  
+[Reinforcement Learning from Multi-role Debates as Feedback for Bias Mitigation in LLMs](https://openreview.net/pdf?id=aqLPNGxgTS)
 
-**Ruoxi Cheng**<sup>1,2,∗</sup>, Haoxuan Ma<sup>2,∗</sup>, Shuirong Cao<sup>3,∗</sup>, Jiaqi Li<sup>2</sup>, Aihua Pei<sup>4</sup>, Zhiqiang Wang<sup>1,†</sup>, Pengliang Ji<sup>5</sup>, Haoyu Wang<sup>1</sup>, Jiaqi Huo<sup>6</sup>  
+Ruoxi Cheng, Haoxuan Ma, Shuirong Cao, Jiaqi Li, Aihua Pei, Zhiqiang Wang, Pengliang Ji>, Haoyu Wang, Jiaqi Huo
 
-[**Code**](https://github.com/Rosy0912/age_bias_data_processing) · [**PDF**](https://openreview.net/pdf?id=aqLPNGxgTS) · <strong><span class='show_paper_citations' data='SCHOLAR_ID_1'></span></strong>  
 
-- We propose a multi-role debate framework to mitigate bias in LLMs through pluralistic alignment.  
+[Code](https://github.com/Rosy0912/age_bias_data_processing) · [PDF](https://openreview.net/pdf?id=aqLPNGxgTS) · <strong><span class='show_paper_citations' data='SCHOLAR_ID_1'></span></strong>  
+- We propose a multi-role debate framework to mitigate bias in LLMs through pluralistic alignment.
 </div>
 </div>
-
----
 
 <!-- 2. Gibberish -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICMR 2025</div>
-<img src='/images/gibberish.png' alt="Gibberish" width="100%">
-</div></div>
+<img src='{{ "/images/gibberish.png" | relative_url }}' alt="Gibberish" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Gibberish is All You Need for Membership Inference Detection in Contrastive Language-Audio Pretraining](https://dl.acm.org/doi/pdf/10.1145/3731715.3733349)  
+[Gibberish is All You Need for Membership Inference Detection in Contrastive Language-Audio Pretraining](https://dl.acm.org/doi/pdf/10.1145/3731715.3733349)
 
-**Ruoxi Cheng**, Yizhong Ding, Shuirong Cao, Shitong Shao, Zhiqiang Wang  
+Ruoxi Cheng, Yizhong Ding, Shuirong Cao, Shitong Shao, Zhiqiang Wang
 
-[**Code**](https://github.com/Rosy0912/USMID) · [**PDF**](https://dl.acm.org/doi/pdf/10.1145/3731715.3733349) · <strong><span class='show_paper_citations' data='SCHOLAR_ID_3'></span></strong>  
-
-- We introduce a gibberish-based ranking anomaly detection method for speaker-level membership inference in CLAP models.  
+[Code](https://github.com/Rosy0912/USMID) · [PDF](https://dl.acm.org/doi/pdf/10.1145/3731715.3733349) · <strong><span class='show_paper_citations' data='SCHOLAR_ID_3'></span></strong>  
+- A gibberish-based ranking anomaly detection method for speaker-level membership inference in CLAP.
 </div>
 </div>
 
----
-
-# 📝 Under Review
-
-<!-- 1. PBI-Attack -->
+<!-- 3. PBI-Attack -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025 (Under Review)</div>
-<img src='/images/pbi-attack.png' alt="PBI-Attack" width="100%">
-</div></div>
+<img src='{{ "/images/pbi-attack.png" | relative_url }}' alt="PBI-Attack" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[PBI-Attack: Prior-Guided Bimodal Interactive Black-Box Jailbreak Attack for Toxicity Maximization](https://arxiv.org/pdf/2412.05892)  
+[PBI-Attack: Prior-Guided Bimodal Interactive Black-Box Jailbreak Attack for Toxicity Maximization](https://arxiv.org/pdf/2412.05892)
 
-**Ruoxi Cheng**, Yizhong Ding, Shuirong Cao, Ranjie Duan, Xiaoshuang Jia, Shaowei Yuan, Zhiqiang Wang, Xiaojun Jia  
+Ruoxi Cheng, Yizhong Ding, Shuirong Cao, Ranjie Duan, Xiaoshuang Jia, Shaowei Yuan, Zhiqiang Wang, Xiaojun Jia
 
-[**Code**](https://github.com/Rosy0912/PBI-Attack) · [**PDF**](https://arxiv.org/pdf/2412.05892) · <strong><span class='show_paper_citations' data='SCHOLAR_ID_2'></span></strong>  
-
-- **Status:** Under review at *EMNLP 2025*, review scores: `oa 3.67`, `meta 3.5`.  
-- A novel black-box jailbreak attack leveraging prior-guided multimodal interaction to maximize toxicity in target models.  
+[Code](https://github.com/Rosy0912/PBI-Attack) · [PDF](https://arxiv.org/pdf/2412.05892) · <strong><span class='show_paper_citations' data='SCHOLAR_ID_2'></span></strong>  
+- Status: under review at EMNLP 2025; review scores: oa 3.67, meta 3.5.
 </div>
 </div>
 
----
-
-<!-- 2. IRL with DRS -->
+<!-- 4. IRL with DRS -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025 (Under Review)</div>
-<img src='/images/irl-drs.png' alt="IRL with Dynamic Reward Scaling" width="100%">
-</div></div>
+<img src='{{ "/images/irl-drs.png" | relative_url }}' alt="IRL with Dynamic Reward Scaling" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Inverse Reinforcement Learning with Dynamic Reward Scaling for LLM Alignment](https://arxiv.org/pdf/2503.18991)  
+[Inverse Reinforcement Learning with Dynamic Reward Scaling for LLM Alignment](https://arxiv.org/pdf/2503.18991)
 
-**Ruoxi Cheng**, Haoxuan Ma, Weixin Wang, Zhiqiang Wang, Xiaoshuang Jia, Simeng Qin, Xiaochun Cao, Yang Liu, Xiaojun Jia  
+Ruoxi Cheng, Haoxuan Ma, Weixin Wang, Zhiqiang Wang, Xiaoshuang Jia, Simeng Qin, Xiaochun Cao, Yang Liu, Xiaojun Jia
 
-[**Code**](https://github.com/Rosy0912/DR-IRL) · [**PDF**](https://arxiv.org/pdf/2503.18991) · <strong><span class='show_paper_citations' data='SCHOLAR_ID_4'></span></strong>  
-
-- **Status:** Under review at *NeurIPS 2025*, review scores: `4-4-4-2`.  
-- This work integrates dynamic reward scaling into IRL to enhance LLM safety alignment without sacrificing general performance.  
+[Code](https://github.com/Rosy0912/DR-IRL) · [PDF](https://arxiv.org/pdf/2503.18991) · <strong><span class='show_paper_citations' data='SCHOLAR_ID_4'></span></strong>  
+- Status: under review at NeurIPS 2025; review scores: 4-4-4-2.
 </div>
 </div>
+
 
 
 
