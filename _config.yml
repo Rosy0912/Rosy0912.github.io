@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Rosy (Ruoxi) Cheng"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "My current research focuses on LLM safety and alignment. "
 repository               : "Rosy0912/Rosy0912.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -20,15 +20,17 @@ bing_site_verification   :  # get bing_site_verification from https://www.bing.c
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
+
 author:
-  name: "Rosy (Ruoxi) Cheng"
+  name: "Rosy Cheng\n 程若曦"
+  avatar: "images/rosy.jpg"
   email: "rosycheng12@gmail.com"
-  city: "Beijing, China"
+  location: "Beijing, China"
   university: >
     Beijing Electronic Science and Technology Institute (BESTI), Master of Cyberspace Security;
     Chien‑shiung Wu College, Southeast University (SEU, 985&211), Bachelor of Artificial Intelligence
-  github: "https://github.com/Rosy0912"
-  scholar: "https://scholar.google.com/citations?user=smUBVOQAAAAJ&hl"
+  github: "Rosy0912"
+  googlescholar: "https://scholar.google.com/citations?user=smUBVOQAAAAJ&hl"
   openreview: "https://openreview.net/profile?id=%7ERuoxi_Cheng1"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
