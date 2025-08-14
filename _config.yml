@@ -6,13 +6,13 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
+title                    : "Rosy (Ruoxi) Cheng"
 description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
+repository               : "Rosy0912/Rosy0912.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
+google_analytics_id      :  "G-2C9RQM7VPC"
 
 # SEO Related
 google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
@@ -21,14 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
-  employer         :
-  pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
+  name: "Rosy (Ruoxi) Cheng"
+  email: "rosycheng12@gmail.com"
+  city: "Beijing, China"
+  university: >
+    Beijing Electronic Science and Technology Institute (BESTI), Master of Cyberspace Security;
+    Chien‑shiung Wu College, Southeast University (SEU, 985&211), Bachelor of Artificial Intelligence
+  github: "https://github.com/Rosy0912"
+  scholar: "https://scholar.google.com/citations?user=smUBVOQAAAAJ&hl"
+  openreview: "https://openreview.net/profile?id=%7ERuoxi_Cheng1"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +38,6 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/my-orcid?orcid=0009-0001-3261-642X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
