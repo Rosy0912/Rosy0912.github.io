@@ -17,6 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# 🧑‍🎓 About me
 
 I graduated in 2024 with a Bachelor’s degree in Artificial Intelligence from Chien-Shiung Wu College, Southeast University (SEU, 985 & 211). Afterwards, I was admitted without examination to the Master’s program at Beijing Electronic Science and Technology Institute (BESTI), initially leaning toward a civil service career after early research setbacks. However, I was fortunate to be advised by [Dr. Xiaojun Jia](http://jiaxiaojunqaq.github.io/), a postdoctoral researcher at Nanyang Technological University, and to collaborate with [Weixin Wang](https://weixinwilliamwang.github.io/weixinwang.github.io/), [Haoxuan Ma](https://hunter-wrynn.github.io/), and many other friends. These experiences reignited my passion for academia and inspired me to pursue a Ph.D.
 
