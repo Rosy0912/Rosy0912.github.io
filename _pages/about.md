@@ -22,6 +22,7 @@ redirect_from:
 I graduated in 2024 with a Bachelor’s degree in Artificial Intelligence from Chien-Shiung Wu College, Southeast University (SEU, 985 & 211). Afterwards, I was admitted without examination to the Master’s program at Beijing Electronic Science and Technology Institute (BESTI), initially leaning toward a civil service career after early research setbacks. However, I was fortunate to be advised by [Dr. Xiaojun Jia](http://jiaxiaojunqaq.github.io/), a postdoctoral researcher at Nanyang Technological University, and to collaborate with [Weixin Wang](https://weixinwilliamwang.github.io/weixinwang.github.io/), [Haoxuan Ma](https://hunter-wrynn.github.io/), and many other friends. These experiences reignited my passion for academia and inspired me to pursue a Ph.D.
 
 
+<span class='anchor' id='selected-papers'></span>
 # 📝 Selected Papers 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025 (Under Review)</div><img src="/images/irl-drs.png" alt="IRL with DRS" width="100%"></div></div>
@@ -75,6 +76,7 @@ Pluralistic Alignment Workshop at NeurIPS 2024
 
 
 
+<span class='anchor' id='honors-and-awards'></span>
 # 🎖 Honors and Awards
 - *2025*, First‑Class Academic Scholarship at BESTI
 - *2025*, Second Prize, National Software Innovation Competition — North China Region
@@ -86,11 +88,13 @@ Pluralistic Alignment Workshop at NeurIPS 2024
 
 
 
+<span class='anchor' id="educations"></span>
 # 📖 Educations
 - *2024.09 – Present, M.S.*, Beijing Electronic Science and Technology Institute, Beijing, China  
 - *2020.09 – 2024.06, B.S.*, Chien-shiung Wu College, Southeast University, Nanjing, China
 
 
+<span class='anchor' id="internships"></span>
 # 💻 Internships
 - *Feb 2025 – Present*, **Alibaba Security** (Supervisor: Ranjie Duan)  
   Contributed to the alignment training and evaluation of LLMs.  
@@ -101,11 +105,15 @@ Pluralistic Alignment Workshop at NeurIPS 2024
   Trained and fine-tuned open-source LLMs using the curated knowledge-base data.  
 
 
+<span class='anchor' id="skills--interests"></span>
 # 💃 Skills & Interests
 - **Languages**: English – IELTS 7.0 (Listening 7.5, Reading 8.0, Writing 6.5, Speaking 6.0); CET-6: 585  
 - **Programming**: Python, C++, PyTorch, TensorFlow, MySQL, Navicat, SPSS  
 - **Chinese Dance**: Level-10 Excellence; First Prize, Solo Dance Competition, Wuxi, Jiangsu Province (2015, 2018)  
 
+
+
+<span class='anchor' id="social-practice"></span>
 # 🌍 Social Practice
 - *Jul 2021 – Aug 2021*, Village Elementary School Teaching, Xiangyang, Hubei – Volunteer, National Education Support Project  
 - *Jun 2019 – Sep 2021*, Talented Youth Initiative, Peking University – Vice Leader of Applied Science & Engineering Study Group  
