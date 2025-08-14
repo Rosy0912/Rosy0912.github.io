@@ -112,7 +112,7 @@ Pluralistic Alignment Workshop at NeurIPS 2024
   Drafted part of the technical report.  
 
 - *Jul 2023 – Sep 2023*, **Information Technology Headquarters, Guolian Securities** (Supervisor: Honghui Xu)  
-  Cleaned and structured raw data for knowledge-graph integration.  
+  Cleaned and structured financial data for knowledge-graph integration.  
   Trained and fine-tuned open-source LLMs using the curated knowledge-base data.  
 
 
