@@ -22,7 +22,7 @@ I completed my undergraduate studies at Chien-Shiung Wu College, Southeast Unive
 
 ---
 
-<!-- 3. Gibberish -->
+<!-- 2. Gibberish -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICMR 2025</div>
 <img src='images/gibberish.png' alt="Gibberish" width="100%">
 </div></div>
@@ -42,7 +42,7 @@ I completed my undergraduate studies at Chien-Shiung Wu College, Southeast Unive
 
 # 📝 Under Review
 
-<!-- 2. PBI-Attack -->
+<!-- 1. PBI-Attack -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025 (Under Review)</div>
 <img src='images/pbi-attack.png' alt="PBI-Attack" width="100%">
 </div></div>
@@ -61,7 +61,7 @@ I completed my undergraduate studies at Chien-Shiung Wu College, Southeast Unive
 
 ---
 
-<!-- 4. IRL with DRS -->
+<!-- 2. IRL with DRS -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025 (Under Review)</div>
 <img src='images/irl-drs.png' alt="IRL with Dynamic Reward Scaling" width="100%">
 </div></div>
@@ -106,4 +106,12 @@ I completed my undergraduate studies at Chien-Shiung Wu College, Southeast Unive
 - *Jul 2023 – Sep 2023*, Information Technology Headquarters, Guolian Securities (Supervisor: Honghui Xu), Development of a dialogue system based on LLMs
 
 
+# 💃 Skills & Interests
+- Languages: English – IELTS 7.0 (Listening 7.5, Reading 8.0, Writing 6.5, Speaking 6.0); CET-6: 585  
+- Programming: Python, C++, PyTorch, TensorFlow, MySQL, Navicat, SPSS  
+- Chinese Dance: Level-10 Excellence; First Prize, Solo Dance Competition, Wuxi, Jiangsu Province (2015, 2018)  
+
+# 🌍 Social Practice
+- *Jun 2019 – Sep 2021*, Talented Youth Initiative, Peking University – Vice Leader of Applied Science & Engineering Study Group  
+- *Jul 2021 – Aug 2021*, Village Elementary School Teaching, Xiangyang, Hubei – Volunteer, National Education Support Project  
 
