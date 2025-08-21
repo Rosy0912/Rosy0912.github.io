@@ -38,14 +38,14 @@ Under review at NeurIPS 2025; review scores: 4-4-4-2.
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025 (Under Review)</div><img src="/images/pbi-attack.png" alt="PBI-Attack" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025 (main)</div><img src="/images/pbi-attack.png" alt="PBI-Attack" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **PBI-Attack: Prior-Guided Bimodal Interactive Black-Box Jailbreak Attack for Toxicity Maximization** [\[Paper\]](https://arxiv.org/pdf/2412.05892)  [\[Code\]](https://github.com/Rosy0912/PBI-Attack)  <strong><span class='show_paper_citations' data='SCHOLAR_ID_2'></span></strong>
 
 **Ruoxi Cheng**, Yizhong Ding, Shuirong Cao, Ranjie Duan, Xiaoshuang Jia, Shaowei Yuan, Zhiqiang Wang, Xiaojun Jia
 
-Under review at EMNLP 2025; review scores: oa 3.67, meta 3.5.
+The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025 Main Conference).
 </div>
 </div>
 
