@@ -45,7 +45,7 @@ Under review at NeurIPS 2025; review scores: 4-4-4-2.
 
 **Ruoxi Cheng**, Yizhong Ding, Shuirong Cao, Ranjie Duan, Xiaoshuang Jia, Shaowei Yuan, Zhiqiang Wang, Xiaojun Jia
 
-The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025 Main Conference).
+The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025)- Main Conference
 </div>
 </div>
 
