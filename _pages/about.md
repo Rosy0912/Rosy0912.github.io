@@ -104,8 +104,8 @@ Pluralistic Alignment Workshop at NeurIPS 2024
     • *A Method for Constructing Chinese–English Safety Evaluation Datasets Based on Inference Complexity Grading* (Sixth Inventor)
     
 - *Jul 2023 – Sep 2023*, **Information Technology Headquarters, Guolian Securities** (Supervisor: Honghui Xu)  
-  Cleaned and structured financial data for knowledge-graph integration.
-  Trained and fine-tuned open-source LLMs using the curated knowledge-base data.  
+  - Cleaned and structured financial data for knowledge-graph integration.
+  - Trained and fine-tuned open-source LLMs using the curated knowledge-base data.  
 
 
 <span class='anchor' id="skills--interests"></span>
