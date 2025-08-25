@@ -98,13 +98,13 @@ Pluralistic Alignment Workshop at NeurIPS 2024
 <span class='anchor' id="internships"></span>
 # 💻 Internships
 - *Feb 2025 – Present*, **Alibaba Security** (Supervisor: Ranjie Duan)  
-  Participated in the alignment training and evaluation of LLMs.  
-  Contributed to two 【Alibaba Innovation Proposal】patents：User–Model Interactive Security Guidance Mechanism Based on Game Theory: (Fifth Inventor); A Method for Constructing Chinese–English Safety Evaluation Datasets Based on Inference Complexity Grading (Sixth Inventor). 
-  Drafted part of the technical report.  
-
+  - Engaged in alignment training and evaluation of LLMs, and contributed to drafting technical reports.  
+  - Co-inventor on two Alibaba Innovation Proposal patents:  
+    • *User–Model Interactive Security Guidance Mechanism Based on Game Theory* (Fifth Inventor)  
+    • *A Method for Constructing Chinese–English Safety Evaluation Datasets Based on Inference Complexity Grading* (Sixth Inventor)
+    
 - *Jul 2023 – Sep 2023*, **Information Technology Headquarters, Guolian Securities** (Supervisor: Honghui Xu)  
   Cleaned and structured financial data for knowledge-graph integration.
-   
   Trained and fine-tuned open-source LLMs using the curated knowledge-base data.  
 
 
