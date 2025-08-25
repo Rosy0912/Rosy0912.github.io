@@ -20,7 +20,9 @@ redirect_from:
 # 🧑‍🎓 About Me
 
 I graduated in 2024 with a Bachelor’s degree in Artificial Intelligence from Chien-Shiung Wu College, Southeast University (SEU, 985 & 211). Afterwards, I was admitted without examination to the Master’s program at Beijing Electronic Science and Technology Institute (BESTI), where I initially considered a civil service career after encountering some early research setbacks. 
-However, I am fortunate to be advised by [Dr. Xiaojun Jia](http://jiaxiaojunqaq.github.io/), a postdoctoral researcher at Nanyang Technological University, and to collaborate with [Weixin Wang](https://weixinwilliamwang.github.io/weixinwang.github.io/), [Haoxuan Ma](https://hunter-wrynn.github.io/), and many other friends. I am also grateful to be interning at Alibaba Security under the mentorship of [Ranjie Duan](https://scholar.google.com/citations?hl=en&user=7-OKixwAAAAJ&view_op=list_works&sortby=pubdate), where I have the privilege of working with exceptional colleagues whose guidance and collaboration have broadened my perspective and strengthened my commitment to research. These ongoing experiences continually inspire me and reinforce my determination to pursue a Ph.D. in trustworthy AI.
+However, I am fortunate to be advised by [Dr. Xiaojun Jia](http://jiaxiaojunqaq.github.io/), a postdoctoral researcher at Nanyang Technological University, and to collaborate with [Weixin Wang](https://weixinwilliamwang.github.io/weixinwang.github.io/), [Haoxuan Ma](https://hunter-wrynn.github.io/), and many other friends. 
+I am also honored to be interning at Alibaba Security under the mentorship of [Ranjie Duan](https://scholar.google.com/citations?hl=en&user=7-OKixwAAAAJ&view_op=list_works&sortby=pubdate), where I have the privilege of working alongside colleagues whose guidance and collaboration have broadened my perspective and deepened my commitment to research.
+These ongoing experiences continually inspire me and reinforce my determination to pursue a Ph.D. in trustworthy AI.
 
 
 <span class='anchor' id='selected-papers'></span>
