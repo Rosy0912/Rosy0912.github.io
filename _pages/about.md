@@ -81,6 +81,7 @@ Pluralistic Alignment Workshop at NeurIPS 2024
 
 <span class='anchor' id='honors-and-awards'></span>
 # 🎖 Honors and Awards
+- *2025*, Second Prize (TOP 5%), National Information Security Contest & “Great Wall Cup” Information Security Triathlon (2025)
 - *2025*, Second Prize, China's Innovation Challenge on Artifcial Intelligence Application Scene (CICAS 2025)
 - *2025*, First‑Class Academic Scholarship at BESTI
 - *2025*, Second Prize, National Software Innovation Competition — North China Region
@@ -114,9 +115,9 @@ Pluralistic Alignment Workshop at NeurIPS 2024
 <span class='anchor' id="skills--interests"></span>
 # 💃 Skills & Interests
 - **Languages**: English – IELTS 7.0 (Listening 7.5, Reading 8.0, Writing 6.5, Speaking 6.0); CET-6: 585  
-- **Programming**: Python, C++, PyTorch, TensorFlow, MySQL, Navicat, SPSS  
+- **Programming**: Python, C++, PyTorch, TensorFlow, MySQL, Navicat, SPSS
+- **Security**:  NISP Level II Certification, administered by China Information Security Evaluation Center
 - **Chinese Dance**: Level-10 Excellence; First Prize, Solo Dance Competition, Wuxi, Jiangsu Province (2015, 2018)  
-
 
 
 <span class='anchor' id="social-practice"></span>
