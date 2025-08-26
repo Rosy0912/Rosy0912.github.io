@@ -116,7 +116,7 @@ Pluralistic Alignment Workshop at NeurIPS 2024
 # 💃 Skills & Interests
 - **Languages**: English – IELTS 7.0 (Listening 7.5, Reading 8.0, Writing 6.5, Speaking 6.0); CET-6: 585  
 - **Programming**: Python, C++, PyTorch, TensorFlow, MySQL, Navicat, SPSS
-- **Security**:  NISP Level II Certification, administered by China Information Security Evaluation Center
+- **Security**:  NISP Level-2 Certification, administered by China Information Security Evaluation Center
 - **Chinese Dance**: Level-10 Excellence; First Prize, Solo Dance Competition, Wuxi, Jiangsu Province (2015, 2018)  
 
 
