@@ -81,6 +81,7 @@ Pluralistic Alignment Workshop at NeurIPS 2024
 
 <span class='anchor' id='honors-and-awards'></span>
 # 🎖 Honors and Awards
+- *2025*, Grand Prize (Top 1), National Cybersecurity Attack and Defense Software Competition
 - *2025*, Second Prize (Top 5%), National Information Security Contest & “Great Wall Cup” Information Security Triathlon
 - *2025*, Second Prize, China's Innovation Challenge on Artifcial Intelligence Application Scene (CICAS 2025)
 - *2025*, First‑Class Academic Scholarship at BESTI
