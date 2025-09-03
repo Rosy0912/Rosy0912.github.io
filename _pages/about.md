@@ -104,18 +104,19 @@ Pluralistic Alignment Workshop at NeurIPS 2024
 # 💻 Internships
 
 **Alibaba Security** — *Feb 2025 – Present*
-*Supervisor: Ranjie Duan*
+*(Supervisor: Ranjie Duan)*
 
 * Engaged in **alignment training and evaluation of LLMs**, contributing to the technical report:
   
-  * *Oyster-I: Beyond Refusal — Constructive Safety Alignment for Responsible Language Models* (Alibaba AAIG) [[paper]](https://arxiv.org/pdf/2509.01909)
+  * *Oyster-I: Beyond Refusal — Constructive Safety Alignment for Responsible Language Models* (Alibaba AAIG) [[paper]](https://arxiv.org/pdf/2509.01909) — *Principal Contributors*
+ 
 * **Co-inventor on two Alibaba Innovation Proposal patents**:
 
   * *User–Model Interactive Security Guidance Mechanism Based on Game Theory* — *Fifth Inventor*
   * *A Method for Constructing Chinese–English Safety Evaluation Datasets Based on Inference Complexity Grading* — *Sixth Inventor*
 
 **Guolian Securities, Information Technology Headquarters** — *Jul 2023 – Sep 2023*
-*Supervisor: Honghui Xu*
+*(Supervisor: Honghui Xu)*
 
 * Cleaned and structured **financial data** for knowledge-graph integration.
 * Trained and fine-tuned **open-source LLMs** on curated knowledge-base data.
