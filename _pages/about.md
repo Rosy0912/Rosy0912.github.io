@@ -108,7 +108,7 @@ Pluralistic Alignment Workshop at NeurIPS 2024
 
 * Engaged in **alignment training and evaluation of LLMs**, contributing to the technical report:
   
-  * *Oyster-I: Beyond Refusal — Constructive Safety Alignment for Responsible Language Models* (Alibaba AAIG) [[paper]](https://arxiv.org/pdf/2509.01909) — *Principal Contributors*
+  * *Oyster-I: Beyond Refusal — Constructive Safety Alignment for Responsible Language Models* (Alibaba AAIG) [[paper]](https://arxiv.org/pdf/2509.01909) — *Principal Contributor (Fifth Author)*
  
 * **Co-inventor on two Alibaba Innovation Proposal patents**:
 
