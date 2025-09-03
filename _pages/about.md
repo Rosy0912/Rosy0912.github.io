@@ -109,7 +109,7 @@ Pluralistic Alignment Workshop at NeurIPS 2024
 *Supervisor: Ranjie Duan*
 
 * Engaged in **alignment training and evaluation of LLMs**, and contributed to drafting the technical report:
-  *Oyster-I: Beyond Refusal — Constructive Safety Alignment for Responsible Language Models* (Alibaba AAIG) [$link$](https://arxiv.org/pdf/2509.01909)
+  *Oyster-I: Beyond Refusal — Constructive Safety Alignment for Responsible Language Models* (Alibaba AAIG) [paper](https://arxiv.org/pdf/2509.01909)
 
 * **Co-inventor on two Alibaba Innovation Proposal patents**:
 
