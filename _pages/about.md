@@ -36,7 +36,7 @@ These ongoing experiences continually inspire me and reinforce my determination 
 **Ruoxi Cheng**, Haoxuan Ma, Weixin Wang, Zhiqiang Wang, Xiaoshuang Jia, Simeng Qin, Xiaochun Cao, Yang Liu, Xiaojun Jia
 
 
-Under review at NeurIPS 2025; review scores: 4-4-4-2.
+Under review at ICLR 2026; (NeurIPS 2025 review scores: 4-4-4-2).
 </div>
 </div>
 
