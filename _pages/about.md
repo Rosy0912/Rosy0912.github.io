@@ -33,10 +33,10 @@ These ongoing experiences continually inspire me and reinforce my determination 
 
 **Inverse Reinforcement Learning with Dynamic Reward Scaling for LLM Alignment** [\[Paper\]](https://arxiv.org/pdf/2503.18991)  [\[Code\]](https://github.com/Rosy0912/DR-IRL)  <strong><span class='show_paper_citations' data='SCHOLAR_ID_4'></span></strong>
 
-**Ruoxi Cheng**, Haoxuan Ma, Weixin Wang, Zhiqiang Wang, Xiaoshuang Jia, Simeng Qin, Xiaochun Cao, Yang Liu, Xiaojun Jia
+**Ruoxi Cheng**, Haoxuan Ma, Weixin Wang, Ranjie Duan, Jiexi Liu, Xiaoshuang Jia, Simeng Qin, Xiaochun Cao, Yang Liu, Xiaojun Jia
 
 
-Under review at ICLR 2026; (NeurIPS 2025 review scores: 4-4-4-2).
+Under review at ICLR 2026; NeurIPS 2025 review scores: 4-4-4-2.
 </div>
 </div>
 
