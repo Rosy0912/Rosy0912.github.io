@@ -35,8 +35,7 @@ These ongoing experiences continually inspire me and reinforce my determination 
 
 **Ruoxi Cheng**, Haoxuan Ma, Weixin Wang, Ranjie Duan, Jiexi Liu, Xiaoshuang Jia, Simeng Qin, Xiaochun Cao, Yang Liu, Xiaojun Jia
 
-
-Under review at ICLR 2026; NeurIPS 2025 review scores: 4-4-4-2.
+ICLR 2026 review scores: 6-4-4-4.
 </div>
 </div>
 
@@ -81,10 +80,13 @@ Pluralistic Alignment Workshop at NeurIPS 2024
 
 <span class='anchor' id='honors-and-awards'></span>
 # 🎖 Honors and Awards
+
+- *2025*, National Scholarship
+- *2025*, Third Prize, “Huawei Cup” China Graduate Al innovation Competition
 - *2025*, Grand Prize (Rank 1), National Cybersecurity Attack and Defense Software Competition
 - *2025*, Second Prize (Top 5%), National Information Security Contest & “Great Wall Cup” Information Security Triathlon
 - *2025*, Second Prize, China's Innovation Challenge on Artifcial Intelligence Application Scene (CICAS 2025)
-- *2025*, First‑Class Academic Scholarship at BESTI
+- *2025*, First‑Class Academic Scholarship
 - *2025*, Second Prize, National Software Innovation Competition — North China Region
 - *2024*, Third Prize, “Huawei Cup” National Cybersecurity Innovation Competition
 - *2024*, Outstanding Undergraduate Thesis (Top 3%)
@@ -133,7 +135,8 @@ Pluralistic Alignment Workshop at NeurIPS 2024
 
 
 <span class='anchor' id="social-practice"></span>
-# 🌍 Social Practice
+# 🌍 Social Service
+- *Sep 2024 – now*, Reviewer for conferences and journals, including NeurIPS, ICASSP, and The Frontiers of Computer Science
 - *Jul 2021 – Aug 2021*, Village Elementary School Teaching, Xiangyang, Hubei – Volunteer, National Education Support Project  
 - *Jun 2019 – Sep 2021*, Talented Youth Initiative, Peking University – Vice Leader of Applied Science & Engineering Study Group  
 
