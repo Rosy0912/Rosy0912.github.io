@@ -40,7 +40,7 @@ ICLR 2026 review scores: 6-4-4-4.
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025 (main)</div><img src="/images/pbi-attack.png" alt="PBI-Attack" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025 (Main)</div><img src="/images/pbi-attack.png" alt="PBI-Attack" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **PBI-Attack: Prior-Guided Bimodal Interactive Black-Box Jailbreak Attack for Toxicity Maximization** [\[Paper\]](https://arxiv.org/pdf/2412.05892)  [\[Code\]](https://github.com/Rosy0912/PBI-Attack)  <strong><span class='show_paper_citations' data='SCHOLAR_ID_2'></span></strong>
@@ -82,9 +82,9 @@ Pluralistic Alignment Workshop at NeurIPS 2024
 # 🎖 Honors and Awards
 
 - *2025*, Second Prize (Top 12%), "Huawei Cup" China Graduate Mathematical Modeling Competition
-- *2025*, *National Scholarship* (Top 1%)
+- *2025*, **National Scholarship** (Top 1%)
 - *2025*, Third Prize, “Huawei Cup” China Graduate Al innovation Competition
-- *2025*, Grand Prize (Rank 1), National Cybersecurity Attack and Defense Software Competition
+- *2025*, Grand Prize (**Rank 1**), National Cybersecurity Attack and Defense Software Competition
 - *2025*, Second Prize (Top 5%), National Information Security Contest & “Great Wall Cup” Information Security Triathlon
 - *2025*, Second Prize, China's Innovation Challenge on Artifcial Intelligence Application Scene (CICAS 2025)
 - *2025*, First‑Class Academic Scholarship (Top 20%)
