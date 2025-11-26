@@ -32,7 +32,7 @@ These ongoing experiences continually inspire me and reinforce my determination 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026 (Under Review)</div><img src="/images/ecoalign.png" alt="Ecoalign" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**EcoAlign: An Economically Rational Framework for Efficient LVLM Alignment** [\[Paper\]]([[https://arxiv.org/pdf/2503.18991](https://arxiv.org/pdf/2511.11301)]([https://arxiv.org/pdf/2511.11301](https://arxiv.org/pdf/2511.11301)))   <strong><span class='show_paper_citations' data='SCHOLAR_ID_4'></span></strong>
+**EcoAlign: An Economically Rational Framework for Efficient LVLM Alignment** [\[Paper\]]((https://arxiv.org/pdf/2511.11301)))   <strong><span class='show_paper_citations' data='SCHOLAR_ID_4'></span></strong>
 
 **Ruoxi Cheng**, Haoxuan Ma, Teng Ma, Hongyi Zhang
 
