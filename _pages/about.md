@@ -28,6 +28,21 @@ These ongoing experiences continually inspire me and reinforce my determination 
 <span class='anchor' id='selected-papers'></span>
 # 📝 Selected Papers 
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026 (Under Review)</div><img src="/images/ecoalign.png" alt="Ecoalign" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**EcoAlign: An Economically Rational Framework for Efficient LVLM Alignment** [\[Paper\]]([[https://arxiv.org/pdf/2503.18991](https://arxiv.org/pdf/2511.11301)]([https://arxiv.org/pdf/2511.11301](https://arxiv.org/pdf/2511.11301)))   <strong><span class='show_paper_citations' data='SCHOLAR_ID_4'></span></strong>
+
+**Ruoxi Cheng**, Haoxuan Ma, Teng Ma, Hongyi Zhang
+
+Under review at CVPR 2026.
+</div>
+</div>
+
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026 (Under Review)</div><img src="/images/irl-drs.png" alt="IRL with DRS" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -35,7 +50,7 @@ These ongoing experiences continually inspire me and reinforce my determination 
 
 **Ruoxi Cheng**, Haoxuan Ma, Weixin Wang, Ranjie Duan, Jiexi Liu, Xiaoshuang Jia, Simeng Qin, Xiaochun Cao, Yang Liu, Xiaojun Jia
 
-ICLR 2026 review scores: 6-4-4-4.
+Under review at ICLR 2026, review scores: 6-4-4-4.
 </div>
 </div>
 
@@ -43,7 +58,7 @@ ICLR 2026 review scores: 6-4-4-4.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025 (Main)</div><img src="/images/pbi-attack.png" alt="PBI-Attack" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**PBI-Attack: Prior-Guided Bimodal Interactive Black-Box Jailbreak Attack for Toxicity Maximization** [\[Paper\]](https://arxiv.org/pdf/2412.05892)  [\[Code\]](https://github.com/Rosy0912/PBI-Attack)  <strong><span class='show_paper_citations' data='SCHOLAR_ID_2'></span></strong>
+**PBI-Attack: Prior-Guided Bimodal Interactive Black-Box Jailbreak Attack for Toxicity Maximization** [\[Paper\]]([[[https://arxiv.org/pdf/2412.05892](https://aclanthology.org/2025.emnlp-main.32.pdf)](https://aclanthology.org/2025.emnlp-main.32.pdf)](https://aclanthology.org/2025.emnlp-main.32.pdf))  [\[Code\]](https://github.com/Rosy0912/PBI-Attack)  <strong><span class='show_paper_citations' data='SCHOLAR_ID_2'></span></strong>
 
 **Ruoxi Cheng**, Yizhong Ding, Shuirong Cao, Ranjie Duan, Xiaoshuang Jia, Shaowei Yuan, Zhiqiang Wang, Xiaojun Jia
 
