@@ -94,7 +94,7 @@ Pluralistic Alignment Workshop at NeurIPS 2024
 
 <span class='anchor' id='honors-and-awards'></span>
 # 🎖 Honors and Awards
-
+- *2025*, First Prize (**Rank 3**), “Huawei Cup” National Cybersecurity Innovation Competition
 - *2025*, Second Prize (Top 12%), "Huawei Cup" China Graduate Mathematical Modeling Competition
 - *2025*, **National Scholarship** (Top 1%)
 - *2025*, Third Prize, “Huawei Cup” China Graduate Al innovation Competition
