@@ -29,6 +29,20 @@ These ongoing experiences continually inspire me and reinforce my determination 
 # 📝 Selected Papers 
 
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pattern Recognition 2026 (Under Review)</div><img src="/images/MIA.png" alt="MIA" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Membership Inference for Contrastive Pre-training Modelswith Text-only PII Queries** 
+
+**Ruoxi Cheng**, Yizhong Ding, Hongyi Zhang, Yiyan Huang
+
+Under review at Pattern Recognition 2026.
+</div>
+</div>
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026 (Under Review)</div><img src="/images/ecoalign.png" alt="Ecoalign" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
