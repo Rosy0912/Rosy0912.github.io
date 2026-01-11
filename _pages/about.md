@@ -33,7 +33,7 @@ These ongoing experiences continually inspire me and reinforce my determination 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pattern Recognition 2026 (Under Review)</div><img src="/images/MIA.png" alt="MIA" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Membership Inference for Contrastive Pre-training Modelswith Text-only PII Queries** 
+**Membership Inference for Contrastive Pre-training Models with Text-only PII Queries** 
 
 **Ruoxi Cheng**, Yizhong Ding, Hongyi Zhang, Yiyan Huang
 
