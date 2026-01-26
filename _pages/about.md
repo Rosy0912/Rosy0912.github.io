@@ -63,7 +63,7 @@ Under review at ACL 2026.
 
 **Ruoxi Cheng**, Haoxuan Ma, Weixin Wang, Ranjie Duan, Jiexi Liu, Xiaoshuang Jia, Simeng Qin, Xiaochun Cao, Yang Liu, Xiaojun Jia
 
-Under review at ICLR 2026, review scores: 6-4-4-4.
+The Fourteenth International Conference on Learning Representations (ICLR 2026)
 </div>
 </div>
 
