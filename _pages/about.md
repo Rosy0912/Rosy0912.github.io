@@ -56,7 +56,7 @@ Under review at ACL 2026.
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026 (Under Review)</div><img src="/images/irl-drs.png" alt="IRL with DRS" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src="/images/irl-drs.png" alt="IRL with DRS" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Inverse Reinforcement Learning with Dynamic Reward Scaling for LLM Alignment** [\[Paper\]](https://arxiv.org/pdf/2503.18991)  [\[Code\]](https://github.com/Rosy0912/DR-IRL)  <strong><span class='show_paper_citations' data='SCHOLAR_ID_4'></span></strong>
