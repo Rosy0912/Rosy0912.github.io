@@ -43,14 +43,14 @@ Under review at Pattern Recognition 2026.
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 (Under Review)</div><img src="/images/ecoalign.png" alt="Ecoalign" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026 (Main)</div><img src="/images/ecoalign.png" alt="Ecoalign" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **EcoAlign: An Economically Rational Framework for Efficient LVLM Alignment** [\[Paper\]](https://arxiv.org/pdf/2511.11301)    **<span class='show_paper_citations' data='SCHOLAR_ID_4'></span>**
 
 **Ruoxi Cheng**, Haoxuan Ma, Teng Ma, Hongyi Zhang
 
-Under review at ACL 2026.
+The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026).
 </div>
 </div>
 
