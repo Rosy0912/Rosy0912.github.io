@@ -28,31 +28,6 @@ Following a one-year internship at Alibaba Security under the mentorship of [Dr.
 <span class='anchor' id='selected-papers'></span>
 # 📝 Selected Papers 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM 2026 (Under Review)</div><img src="/images/AOD.png" alt="AOD" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**AOD: Adversarial Orthogonal Disentanglement for LVLM Hallucination Mitigation** 
-
-**Ruoxi Cheng**, Haoxuan Ma, Zhengfei Hai, Yiyan HUANG, Ranjie Duan, Tianle Zhang, Xu Yang, Ziyi Ye, Xingjun Ma 
-
-Under review at MM 2026.
-</div>
-</div>
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pattern Recognition 2026 (Under Review)</div><img src="/images/MIA.png" alt="MIA" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Membership Inference for Contrastive Pre-training Models with Text-only PII Queries** 
-
-**Ruoxi Cheng**, Yizhong Ding, Hongyi Zhang, Yiyan Huang
-
-Under review at Pattern Recognition 2026.
-</div>
-</div>
-
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026 (Main)</div><img src="/images/ecoalign.png" alt="Ecoalign" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -87,6 +62,31 @@ The Fourteenth International Conference on Learning Representations (ICLR 2026)
 **Ruoxi Cheng**, Yizhong Ding, Shuirong Cao, Ranjie Duan, Xiaoshuang Jia, Shaowei Yuan, Zhiqiang Wang, Xiaojun Jia
 
 The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025) Main Conference
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM 2026 (Under Review)</div><img src="/images/AOD.png" alt="AOD" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**AOD: Adversarial Orthogonal Disentanglement for LVLM Hallucination Mitigation** 
+
+**Ruoxi Cheng**, Haoxuan Ma, Zhengfei Hai, Yiyan HUANG, Ranjie Duan, Tianle Zhang, Xu Yang, Ziyi Ye, Xingjun Ma 
+
+Under review at MM 2026.
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pattern Recognition 2026 (Under Review)</div><img src="/images/MIA.png" alt="MIA" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Membership Inference for Contrastive Pre-training Models with Text-only PII Queries** 
+
+**Ruoxi Cheng**, Yizhong Ding, Hongyi Zhang, Yiyan Huang
+
+Under review at Pattern Recognition 2026.
 </div>
 </div>
 
