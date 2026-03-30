@@ -102,7 +102,7 @@ The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2
 - *2025*, Grand Prize (**Rank 1**), National Cybersecurity Attack and Defense Software Competition
 - *2025*, Second Prize (Top 5%), National Information Security Contest & “Great Wall Cup” Information Security Triathlon
 - *2025*, Second Prize, China's Innovation Challenge on Artifcial Intelligence Application Scene (CICAS 2025)
-- *2024 & 2025*, First‑Class Academic Scholarship (Top 20%)
+- *2024 & 2025*, First‑Class Academic Scholarship
 - *2025*, Second Prize, National Software Innovation Competition — North China Region
 - *2024*, Outstanding Undergraduate Thesis (Top 3%)
 - *2021*, Merit Student Award of Southeast University
