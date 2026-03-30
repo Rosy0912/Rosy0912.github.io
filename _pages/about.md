@@ -91,29 +91,6 @@ The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICMR 2025</div><img src="/images/gibberish.png" alt="Gibberish" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Gibberish is All You Need for Membership Inference Detection in Contrastive Language-Audio Pretraining** [\[Paper\]](https://dl.acm.org/doi/pdf/10.1145/3731715.3733349)  [\[Code\]](https://github.com/Rosy0912/USMID)  <strong><span class='show_paper_citations' data='SCHOLAR_ID_3'></span></strong>
-
-**Ruoxi Cheng**, Yizhong Ding, Shuirong Cao, Shitong Shao, Zhiqiang Wang
-
-The 15th ACM International Conference on Multimedia Retrieval (ICMR 2025)
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024 Workshop</div><img src="/images/rldf.png" alt="RLDF" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Reinforcement Learning from Multi-role Debates as Feedback for Bias Mitigation in LLMs** [\[Paper\]](https://openreview.net/pdf?id=aqLPNGxgTS)  [\[Code\]](https://github.com/Rosy0912/age_bias_data_processing) <strong><span class='show_paper_citations' data='SCHOLAR_ID_1'></span></strong>
-
-**Ruoxi Cheng**, Haoxuan Ma, Shuirong Cao, Jiaqi Li, Aihua Pei, Zhiqiang Wang, Pengliang Ji, Haoyu Wang, Jiaqi Huo
-
-Pluralistic Alignment Workshop at NeurIPS 2024
-</div>
-</div>
-
 
 
 
@@ -122,14 +99,11 @@ Pluralistic Alignment Workshop at NeurIPS 2024
 - *2025*, First Prize (**Rank 3**), “Huawei Cup” National Cybersecurity Innovation Competition
 - *2025*, Second Prize (Top 12%), "Huawei Cup" China Graduate Mathematical Modeling Competition
 - *2025*, **National Scholarship** (Top 1%)
-- *2025*, Third Prize, The 4th China Postgraduate FinTech Innovation Competition
-- *2025*, Third Prize, “Huawei Cup” China Graduate Al innovation Competition
 - *2025*, Grand Prize (**Rank 1**), National Cybersecurity Attack and Defense Software Competition
 - *2025*, Second Prize (Top 5%), National Information Security Contest & “Great Wall Cup” Information Security Triathlon
 - *2025*, Second Prize, China's Innovation Challenge on Artifcial Intelligence Application Scene (CICAS 2025)
 - *2024 & 2025*, First‑Class Academic Scholarship (Top 20%)
 - *2025*, Second Prize, National Software Innovation Competition — North China Region
-- *2024*, Third Prize, “Huawei Cup” National Cybersecurity Innovation Competition
 - *2024*, Outstanding Undergraduate Thesis (Top 3%)
 - *2021*, Merit Student Award of Southeast University
 - *2021*, Second Prize, National Undergraduate Mathematics Competition
@@ -162,12 +136,6 @@ Pluralistic Alignment Workshop at NeurIPS 2024
 
   * *User–Model Interactive Security Guidance Mechanism Based on Game Theory* — *Fifth Inventor*
   * *A Method for Constructing Chinese–English Safety Evaluation Datasets Based on Inference Complexity Grading* — *Sixth Inventor*
-
-**Guolian Securities, Information Technology Headquarters** — *Jul 2023 – Sep 2023*
-*(Supervisor: Honghui Xu)*
-
-* Cleaned and structured financial data for knowledge-graph integration.
-* Trained and fine-tuned open-source LLMs on curated knowledge-base data.
 
 
 
