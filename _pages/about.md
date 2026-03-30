@@ -149,7 +149,7 @@ Pluralistic Alignment Workshop at NeurIPS 2024
 **TeleAI** — *Mar 2026 – present*
 *(Supervisor: Tianle Zhang)*
 
-*Researching agent reasoning RL for safety and adversarial red teaming.
+* Researching agent reasoning RL for safety and adversarial red teaming.
 
 **Alibaba Security** — *Feb 2025 – Mar 2026*
 *(Supervisor: Ranjie Duan)*
