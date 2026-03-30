@@ -21,12 +21,23 @@ redirect_from:
 
 I graduated in 2024 with a Bachelor’s degree in Artificial Intelligence from Chien-Shiung Wu College, Southeast University (SEU, 985 & 211). Afterwards, I was admitted without examination to the Master’s program at Beijing Electronic Science and Technology Institute (BESTI), where I initially considered a civil service career after encountering some early research setbacks. 
 However, I am fortunate to be advised by [Dr. Xiaojun Jia](http://jiaxiaojunqaq.github.io/), a postdoctoral researcher at Nanyang Technological University, and to collaborate with [Weixin Wang](https://weixinwilliamwang.github.io/), [Haoxuan Ma](https://hunter-wrynn.github.io/), and many other friends. 
-I am also honored to be interning at Alibaba Security under the mentorship of [Dr. Ranjie Duan](https://scholar.google.com/citations?hl=en&user=7-OKixwAAAAJ&view_op=list_works&sortby=pubdate), where I have the privilege of working alongside colleagues whose guidance and collaboration have broadened my perspective and deepened my commitment to research.
-These ongoing experiences continually inspire me and reinforce my determination to pursue a Ph.D. in trustworthy AI.
+Following a one-year internship at Alibaba Security under the mentorship of [Dr. Ranjie Duan](https://scholar.google.com/citations?hl=en&user=7-OKixwAAAAJ&view_op=list_works&sortby=pubdate), where I have the privilege of working alongside colleagues whose guidance and collaboration have broadened my perspective and deepened my commitment to research. Currently, I am an AI Governance Research Intern at TeleAI, while also conducting research under the guidance of [Prof. Xingjun Ma](http://xingjunma.com/) at Fudan University. These ongoing experiences continually inspire me and reinforce my determination to pursue a Ph.D. in trustworthy AI.
+
 
 
 <span class='anchor' id='selected-papers'></span>
 # 📝 Selected Papers 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM 2026 (Under Review)</div><img src="/images/AOD.png" alt="AOD" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**AOD: Adversarial Orthogonal Disentanglement for LVLM Hallucination Mitigation** 
+
+**Ruoxi Cheng**, Haoxuan Ma, Zhengfei Hai, Yiyan HUANG, Ranjie Duan, Tianle Zhang, Xu Yang, Ziyi Ye, Xingjun Ma 
+
+Under review at MM 2026.
+</div>
+</div>
 
 
 
@@ -135,7 +146,12 @@ Pluralistic Alignment Workshop at NeurIPS 2024
 <span class='anchor' id="internships"></span>
 # 💻 Internships
 
-**Alibaba Security** — *Feb 2025 – Present*
+**TeleAI** — *Mar 2026 – present*
+*(Supervisor: Tianle Zhang)*
+
+*Researching agent reasoning RL for safety and adversarial red teaming.
+
+**Alibaba Security** — *Feb 2025 – Mar 2026*
 *(Supervisor: Ranjie Duan)*
 
 * Engaged in alignment training and evaluation of LLMs, contributing to the **technical report**:
