@@ -150,7 +150,7 @@ Under review at Pattern Recognition 2026.
 
 <span class='anchor' id="social-practice"></span>
 # 🌍 Social Service
-- *Sep 2024 – now*, Program Committee Member or Reviewer for conferences and journals, including NeurIPS, ACL, ICASSP, ICMR, and The Frontiers of Computer Science
+- *Sep 2024 – now*, Reviewer for conferences and journals including NeurIPS, ACL and TPAMI
 - *Jul 2021 – Aug 2021*, Village Elementary School Teaching, Xiangyang, Hubei – Volunteer, National Education Support Project  
 - *Jun 2019 – Sep 2021*, Talented Youth Initiative, Peking University – Vice Leader of Applied Science & Engineering Study Group  
 
