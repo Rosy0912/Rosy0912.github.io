@@ -123,7 +123,7 @@ Under review at Pattern Recognition 2026.
 **TeleAI** — *Mar 2026 – present*
 *(Supervisor: Tianle Zhang)*
 
-* Researching agent reasoning RL for safety and adversarial red teaming.
+* Researching on Agentic RL.
 
 **Alibaba Security** — *Feb 2025 – Mar 2026*
 *(Supervisor: Ranjie Duan)*
