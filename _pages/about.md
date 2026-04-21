@@ -20,8 +20,11 @@ redirect_from:
 # 🧑‍🎓 About Me
 
 I graduated in 2024 with a Bachelor’s degree in Artificial Intelligence from Chien-Shiung Wu College, Southeast University (SEU, 985 & 211). Afterwards, I was admitted without examination to the Master’s program at Beijing Electronic Science and Technology Institute (BESTI), where I initially considered a civil service career after encountering some early research setbacks. 
-However, I am fortunate to be advised by [Dr. Xiaojun Jia](http://jiaxiaojunqaq.github.io/), a postdoctoral researcher at Nanyang Technological University, and to collaborate with [Weixin Wang](https://weixinwilliamwang.github.io/), [Haoxuan Ma](https://hunter-wrynn.github.io/), and many other friends. 
-Following a one-year internship at Alibaba Security under the mentorship of [Dr. Ranjie Duan](https://scholar.google.com/citations?hl=en&user=7-OKixwAAAAJ&view_op=list_works&sortby=pubdate), where I have the privilege of working alongside colleagues whose guidance and collaboration have broadened my perspective and deepened my commitment to research, I am currently an AI Governance Research Intern at TeleAI mentored by [Tianle Zhang](https://tianlezhang.com/), while also conducting research under the guidance of [Prof. Xingjun Ma](http://xingjunma.com/) at Fudan University. These ongoing experiences continually inspire me and reinforce my determination to pursue a Ph.D. in trustworthy AI.
+
+However, I am fortunate to be advised by [Dr. Xiaojun Jia](http://jiaxiaojunqaq.github.io/), a postdoctoral researcher at Nanyang Technological University, and to collaborate with [Weixin Wang](https://weixinwilliamwang.github.io/), [Haoxuan Ma](https://hunter-wrynn.github.io/), and many other brilliant peers. With Dr. Jia’s kind encouragement and recommendation, I had the privilege of completing a one-year research internship at Alibaba Security, where I was mentored by [Dr. Ranjie Duan](https://scholar.google.com/citations?hl=en&user=7-OKixwAAAAJ&view_op=list_works&sortby=pubdate). 
+
+Building on this experience, I am honored to have been selected for the **2026 Tencent Rhino-Bird Research Elite Program**. In this joint academic-industry initiative, I am currently engaged in a one-year research project co-mentored by [Jolin Xia](https://scholar.google.com/citations?user=6j3IU4AAAAAJ&hl=zh-CN) from Tencent and [Prof. Xingjun Ma](http://xingjunma.com/) at Fudan University. These diverse and enriching collaborations have consistently broadened my research horizons and deepened my commitment to pursuing a Ph.D. in trustworthy AI.
+
 
 
 
@@ -86,7 +89,7 @@ Under review at MM 2026.
 
 **Ruoxi Cheng**, Yizhong Ding, Hongyi Zhang, Yiyan Huang
 
-Under review at Pattern Recognition 2026.
+Under review at KBS 2026.
 </div>
 </div>
 
@@ -120,12 +123,15 @@ Under review at Pattern Recognition 2026.
 <span class='anchor' id="internships"></span>
 # 💻 Internships
 
-**TeleAI** — *Mar 2026 – present*
-*(Supervisor: Tianle Zhang)*
 
-* Researching on Agentic RL.
+**Tencent (Rhino-Bird Research Elite Program)** — *May 2026 – Present*
+*Department: Tencent Yuanbao*
+*(Industrial Supervisor: Jolin Xia | Academic Supervisor: Xingjun Ma)*
 
-**Alibaba Security** — *Feb 2025 – Mar 2026*
+* Research Project: **Self-evolving Agent Systems for Complex Reasoning Tasks**.
+
+
+**Alibaba Security** — *Feb 2025 – Apr 2026*
 *(Supervisor: Ranjie Duan)*
 
 * Engaged in alignment training and evaluation of LLMs, contributing to the **technical report**:
