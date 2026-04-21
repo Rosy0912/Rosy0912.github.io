@@ -124,8 +124,7 @@ Under review at KBS 2026.
 # 💻 Internships
 
 
-**Tencent (Rhino-Bird Research Elite Program)** — *May 2026 – Present*
-*Department: Tencent Yuanbao*
+**Tencent Yuanbao (Rhino-Bird Research Elite Program)** — *May 2026 – Present*
 *(Industrial Supervisor: Jolin Xia | Academic Supervisor: Xingjun Ma)*
 
 * Research Project: **Self-evolving Agent Systems for Complex Reasoning Tasks**.
