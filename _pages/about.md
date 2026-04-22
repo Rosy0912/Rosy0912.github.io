@@ -82,14 +82,14 @@ Under review at MM 2026.
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pattern Recognition 2026 (Under Review)</div><img src="/images/MIA.png" alt="MIA" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS (Under Review)</div><img src="/images/MIA.png" alt="MIA" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Membership Inference for Contrastive Pre-training Models with Text-only PII Queries** 
 
 **Ruoxi Cheng**, Yizhong Ding, Hongyi Zhang, Yiyan Huang
 
-Under review at KBS 2026.
+Under review at IEEE Transactions on Information Forensics and Security (TIFS).
 </div>
 </div>
 
