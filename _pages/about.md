@@ -87,7 +87,7 @@ Under review at MM 2026.
 
 **Membership Inference for Contrastive Pre-training Models with Text-only PII Queries** 
 
-**Ruoxi Cheng**, Yizhong Ding, Hongyi Zhang, Yiyan Huang
+**Ruoxi Cheng**, Yizhong Ding, Jian Zhao, Hongyi Zhang, Haoxuan Ma, Tianle Zhang, Yiyan Huang, Xuelong Li
 
 Under review at IEEE Transactions on Information Forensics and Security (TIFS).
 </div>
