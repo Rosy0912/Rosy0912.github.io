@@ -49,6 +49,7 @@ The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026).
 <div class='paper-box-text' markdown="1">
 
 **Inverse Reinforcement Learning with Dynamic Reward Scaling for LLM Alignment** [\[Paper\]](https://arxiv.org/pdf/2503.18991) 
+
 **Ruoxi Cheng**, Haoxuan Ma, Weixin Wang, Ranjie Duan, Jiexi Liu, Xiaoshuang Jia, Simeng Qin, Xiaochun Cao, Yang Liu, Xiaojun Jia
 
 The Fourteenth International Conference on Learning Representations (ICLR 2026)
