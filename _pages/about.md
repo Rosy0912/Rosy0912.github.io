@@ -35,7 +35,7 @@ Building on this experience, I am honored to have been selected for the **2026 T
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026 (Main)</div><img src="/images/ecoalign.png" alt="Ecoalign" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**EcoAlign: An Economically Rational Framework for Efficient LVLM Alignment** [\[Paper\]](https://arxiv.org/pdf/2511.11301)    **<span class='show_paper_citations' data='SCHOLAR_ID_4'></span>**
+**EcoAlign: An Economically Rational Framework for Efficient LVLM Alignment** [\[Paper\]](https://arxiv.org/pdf/2511.11301)
 
 **Ruoxi Cheng**, Haoxuan Ma, Teng Ma, Hongyi Zhang
 
@@ -48,8 +48,7 @@ The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026).
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src="/images/irl-drs.png" alt="IRL with DRS" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Inverse Reinforcement Learning with Dynamic Reward Scaling for LLM Alignment** [\[Paper\]](https://arxiv.org/pdf/2503.18991)  [\[Code\]](https://github.com/Rosy0912/DR-IRL)  <strong><span class='show_paper_citations' data='SCHOLAR_ID_4'></span></strong>
-
+**Inverse Reinforcement Learning with Dynamic Reward Scaling for LLM Alignment** [\[Paper\]](https://arxiv.org/pdf/2503.18991) 
 **Ruoxi Cheng**, Haoxuan Ma, Weixin Wang, Ranjie Duan, Jiexi Liu, Xiaoshuang Jia, Simeng Qin, Xiaochun Cao, Yang Liu, Xiaojun Jia
 
 The Fourteenth International Conference on Learning Representations (ICLR 2026)
@@ -60,7 +59,7 @@ The Fourteenth International Conference on Learning Representations (ICLR 2026)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025 (Main)</div><img src="/images/pbi-attack.png" alt="PBI-Attack" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**PBI-Attack: Prior-Guided Bimodal Interactive Black-Box Jailbreak Attack for Toxicity Maximization** [\[Paper\]]([[[https://arxiv.org/pdf/2412.05892](https://aclanthology.org/2025.emnlp-main.32.pdf)](https://aclanthology.org/2025.emnlp-main.32.pdf)](https://aclanthology.org/2025.emnlp-main.32.pdf))  [\[Code\]](https://github.com/Rosy0912/PBI-Attack)  <strong><span class='show_paper_citations' data='SCHOLAR_ID_2'></span></strong>
+**PBI-Attack: Prior-Guided Bimodal Interactive Black-Box Jailbreak Attack for Toxicity Maximization** [\[Paper\]](https://aclanthology.org/2025.emnlp-main.32.pdf)
 
 **Ruoxi Cheng**, Yizhong Ding, Shuirong Cao, Ranjie Duan, Xiaoshuang Jia, Shaowei Yuan, Zhiqiang Wang, Xiaojun Jia
 
@@ -85,7 +84,7 @@ Under review at MM 2026.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS (Under Review)</div><img src="/images/MIA.png" alt="MIA" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Membership Inference for Contrastive Pre-training Models with Text-only PII Queries** 
+**Membership Inference for Contrastive Pre-training Models with Text-only PII Queries** [\[Paper\]](https://arxiv.org/pdf/2603.14222)
 
 **Ruoxi Cheng**, Yizhong Ding, Jian Zhao, Hongyi Zhang, Haoxuan Ma, Tianle Zhang, Yiyan Huang, Xuelong Li
 
