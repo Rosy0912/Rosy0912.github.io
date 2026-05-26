@@ -72,7 +72,7 @@ The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM 2026 (Under Review)</div><img src="/images/AOD.png" alt="AOD" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**AOD: Adversarial Orthogonal Disentanglement for LVLM Hallucination Mitigation** 
+**AOD: Adversarial Orthogonal Disentanglement for LVLM Hallucination Mitigation** [\[Paper\]](https://arxiv.org/pdf/2605.25377)
 
 **Ruoxi Cheng**, Haoxuan Ma, Zhengfei Hai, Yiyan Huang, Ranjie Duan, Tianle Zhang, Xu Yang, Ziyi Ye, Xingjun Ma 
 
