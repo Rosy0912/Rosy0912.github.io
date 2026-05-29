@@ -35,7 +35,7 @@ Building on this experience, I am honored to have been selected for the **2026 T
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026 (Main)</div><img src="/images/ecoalign.png" alt="Ecoalign" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**EcoAlign: An Economically Rational Framework for Efficient LVLM Alignment** [\[Paper\]](https://arxiv.org/pdf/2511.11301)
+**EcoAlign: An Economically Rational Framework for Efficient LVLM Alignment** [\[Paper\]](https://openaccess.thecvf.com/content/CVPR2026/papers/Cheng_EcoAlign_An_Economically_Rational_Framework_for_Efficient_LVLM_Alignment_CVPR_2026_paper.pdf)
 
 **Ruoxi Cheng**, Haoxuan Ma, Teng Ma, Hongyi Zhang
 
@@ -48,7 +48,7 @@ The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026).
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src="/images/irl-drs.png" alt="IRL with DRS" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Inverse Reinforcement Learning with Dynamic Reward Scaling for LLM Alignment** [\[Paper\]](https://arxiv.org/pdf/2503.18991) 
+**Inverse Reinforcement Learning with Dynamic Reward Scaling for LLM Alignment** [\[Paper\]](https://openreview.net/attachment?id=K0Zh6mzTzc&name=pdf) 
 
 **Ruoxi Cheng**, Haoxuan Ma, Weixin Wang, Ranjie Duan, Jiexi Liu, Xiaoshuang Jia, Simeng Qin, Xiaochun Cao, Yang Liu, Xiaojun Jia
 
