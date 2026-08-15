@@ -73,7 +73,7 @@ The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2
   <div class='paper-box-image'>
     <div>
       <div class="badge">ICLR 2027 (Preparing Submission)</div>
-      <img src="/images/Search-G1.png" alt="Search-G1" width="100%">
+      <img src="/images/search-g1.png" alt="Search-G1" width="100%">
     </div>
   </div>
 
