@@ -69,6 +69,26 @@ The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2
 </div>
 
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">ICLR 2027 (Preparing Submission)</div>
+      <img src="/images/Search-G1.png" alt="Search-G1" width="100%">
+    </div>
+  </div>
+
+  <div class='paper-box-text' markdown="1">
+
+**Search-G1: Grounded Search Agents via Representation-Based Intrinsic Rewards**
+
+**Ruoxi Cheng**, Haoxuan Ma, Hongyi Zhang, Junming Zhang, Ranjie Duan, Qiaolin Xia, Hao Wang, Yu Lu, Haibo Shi, Xingjun Ma
+
+Preparing for submission to ICLR 2027.
+  </div>
+</div>
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM 2026 (Under Review)</div><img src="/images/AOD.png" alt="AOD" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
