@@ -79,7 +79,7 @@ The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2
 
   <div class='paper-box-text' markdown="1">
 
-**Search-G1: Grounded Search Agents via Representation-Based Intrinsic Rewards**
+**Search-G1: Grounded Search Agents via Representation-Based Intrinsic Rewards** [\[Paper\]](https://arxiv.org/pdf/2608.07531)
 
 **Ruoxi Cheng**, Haoxuan Ma, Hongyi Zhang, Junming Zhang, Ranjie Duan, Qiaolin Xia, Hao Wang, Yu Lu, Haibo Shi, Xingjun Ma
 
