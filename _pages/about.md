@@ -89,14 +89,14 @@ Preparing for submission to ICLR 2027.
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM 2026 (Under Review)</div><img src="/images/AOD.png" alt="AOD" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2027 (Under Review)</div><img src="/images/AOD.png" alt="AOD" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **AOD: Adversarial Orthogonal Disentanglement for LVLM Hallucination Mitigation** [\[Paper\]](https://arxiv.org/pdf/2605.25377)
 
 **Ruoxi Cheng**, Haoxuan Ma, Zhengfei Hai, Yiyan Huang, Ranjie Duan, Tianle Zhang, Xu Yang, Ziyi Ye, Xingjun Ma 
 
-Under review at MM 2026.
+Under review at AAAI 2027.
 </div>
 </div>
 
